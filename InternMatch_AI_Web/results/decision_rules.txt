@@ -1,0 +1,100 @@
+|--- categorical__career_goal_Python Developer <= 0.50
+|   |--- categorical__career_goal_Data Analyst <= 0.50
+|   |   |--- categorical__domain_interest_Data Analytics <= 0.50
+|   |   |   |--- categorical__career_goal_Web Developer <= 0.50
+|   |   |   |   |--- categorical__career_goal_QA Engineer <= 0.50
+|   |   |   |   |   |--- categorical__career_goal_ML Engineer <= 0.50
+|   |   |   |   |   |   |--- categorical__domain_interest_Web Development <= 0.50
+|   |   |   |   |   |   |   |--- class: Cybersecurity
+|   |   |   |   |   |   |--- categorical__domain_interest_Web Development >  0.50
+|   |   |   |   |   |   |   |--- class: Web Development
+|   |   |   |   |   |--- categorical__career_goal_ML Engineer >  0.50
+|   |   |   |   |   |   |--- categorical__domain_interest_Machine Learning <= 0.50
+|   |   |   |   |   |   |   |--- class: Machine Learning
+|   |   |   |   |   |   |--- categorical__domain_interest_Machine Learning >  0.50
+|   |   |   |   |   |   |   |--- class: Machine Learning
+|   |   |   |   |--- categorical__career_goal_QA Engineer >  0.50
+|   |   |   |   |   |--- categorical__domain_interest_Machine Learning <= 0.50
+|   |   |   |   |   |   |--- categorical__domain_interest_Web Development <= 0.50
+|   |   |   |   |   |   |   |--- class: Software Testing
+|   |   |   |   |   |   |--- categorical__domain_interest_Web Development >  0.50
+|   |   |   |   |   |   |   |--- class: Web Development
+|   |   |   |   |   |--- categorical__domain_interest_Machine Learning >  0.50
+|   |   |   |   |   |   |--- categorical__experience_level_Freelance <= 0.50
+|   |   |   |   |   |   |   |--- class: Machine Learning
+|   |   |   |   |   |   |--- categorical__experience_level_Freelance >  0.50
+|   |   |   |   |   |   |   |--- class: Machine Learning
+|   |   |   |--- categorical__career_goal_Web Developer >  0.50
+|   |   |   |   |--- categorical__education_B.Tech AI & DS <= 0.50
+|   |   |   |   |   |--- categorical__domain_interest_Machine Learning <= 0.50
+|   |   |   |   |   |   |--- numeric__skills_count <= 5.50
+|   |   |   |   |   |   |   |--- class: Web Development
+|   |   |   |   |   |   |--- numeric__skills_count >  5.50
+|   |   |   |   |   |   |   |--- class: Web Development
+|   |   |   |   |   |--- categorical__domain_interest_Machine Learning >  0.50
+|   |   |   |   |   |   |--- class: Machine Learning
+|   |   |   |   |--- categorical__education_B.Tech AI & DS >  0.50
+|   |   |   |   |   |--- numeric__certifications_count <= 2.50
+|   |   |   |   |   |   |--- class: Machine Learning
+|   |   |   |   |   |--- numeric__certifications_count >  2.50
+|   |   |   |   |   |   |--- class: Machine Learning
+|   |   |--- categorical__domain_interest_Data Analytics >  0.50
+|   |   |   |--- categorical__education_MCA <= 0.50
+|   |   |   |   |--- numeric__projects_count <= 1.50
+|   |   |   |   |   |--- categorical__education_B.Tech CSE <= 0.50
+|   |   |   |   |   |   |--- class: Data Analytics
+|   |   |   |   |   |--- categorical__education_B.Tech CSE >  0.50
+|   |   |   |   |   |   |--- class: Data Analytics
+|   |   |   |   |--- numeric__projects_count >  1.50
+|   |   |   |   |   |--- categorical__career_goal_ML Engineer <= 0.50
+|   |   |   |   |   |   |--- class: Data Analytics
+|   |   |   |   |   |--- categorical__career_goal_ML Engineer >  0.50
+|   |   |   |   |   |   |--- class: Data Analytics
+|   |   |   |--- categorical__education_MCA >  0.50
+|   |   |   |   |--- numeric__projects_count <= 4.00
+|   |   |   |   |   |--- class: Data Analytics
+|   |   |   |   |--- numeric__projects_count >  4.00
+|   |   |   |   |   |--- class: Data Analytics
+|   |--- categorical__career_goal_Data Analyst >  0.50
+|   |   |--- numeric__projects_count <= 2.50
+|   |   |   |--- class: Data Analytics
+|   |   |--- numeric__projects_count >  2.50
+|   |   |   |--- numeric__projects_count <= 3.50
+|   |   |   |   |--- class: Data Analytics
+|   |   |   |--- numeric__projects_count >  3.50
+|   |   |   |   |--- categorical__experience_level_Freelance <= 0.50
+|   |   |   |   |   |--- categorical__education_MCA <= 0.50
+|   |   |   |   |   |   |--- class: Data Analytics
+|   |   |   |   |   |--- categorical__education_MCA >  0.50
+|   |   |   |   |   |   |--- class: Data Analytics
+|   |   |   |   |--- categorical__experience_level_Freelance >  0.50
+|   |   |   |   |   |--- class: Data Analytics
+|--- categorical__career_goal_Python Developer >  0.50
+|   |--- categorical__domain_interest_Data Analytics <= 0.50
+|   |   |--- categorical__education_B.Tech AI & DS <= 0.50
+|   |   |   |--- categorical__domain_interest_Machine Learning <= 0.50
+|   |   |   |   |--- numeric__skills_count <= 2.50
+|   |   |   |   |   |--- numeric__projects_count <= 3.00
+|   |   |   |   |   |   |--- class: Python Development
+|   |   |   |   |   |--- numeric__projects_count >  3.00
+|   |   |   |   |   |   |--- class: Python Development
+|   |   |   |   |--- numeric__skills_count >  2.50
+|   |   |   |   |   |--- categorical__domain_interest_Cloud Computing <= 0.50
+|   |   |   |   |   |   |--- class: Python Development
+|   |   |   |   |   |--- categorical__domain_interest_Cloud Computing >  0.50
+|   |   |   |   |   |   |--- class: Python Development
+|   |   |   |--- categorical__domain_interest_Machine Learning >  0.50
+|   |   |   |   |--- numeric__skills_count <= 7.50
+|   |   |   |   |   |--- class: Python Development
+|   |   |   |   |--- numeric__skills_count >  7.50
+|   |   |   |   |   |--- class: Machine Learning
+|   |   |--- categorical__education_B.Tech AI & DS >  0.50
+|   |   |   |--- numeric__skills_count <= 8.50
+|   |   |   |   |--- class: Machine Learning
+|   |   |   |--- numeric__skills_count >  8.50
+|   |   |   |   |--- class: Machine Learning
+|   |--- categorical__domain_interest_Data Analytics >  0.50
+|   |   |--- numeric__certifications_count <= 3.50
+|   |   |   |--- class: Data Analytics
+|   |   |--- numeric__certifications_count >  3.50
+|   |   |   |--- class: Web Development

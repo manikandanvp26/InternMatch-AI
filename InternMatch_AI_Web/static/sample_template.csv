@@ -1,0 +1,5 @@
+﻿student_name,education,domain_interest,career_goal,projects_count,certifications_count,experience_level,skills_count,skills,preferred_location,preferred_duration_months
+Arun Kumar,B.Tech CSE,Data Analytics,Data Analyst,3,2,College project,4,"Python, SQL, Pandas, Excel",Chennai,6
+Priya Sharma,MCA,Web Development,Web Developer,4,1,Internship,5,"HTML, CSS, JavaScript, Git",Remote,6
+Vikram Singh,B.Tech IT,Machine Learning,ML Engineer,2,1,College project,3,"Python, Machine Learning, Pandas",Any,6
+Sneha Reddy,BCA,Cybersecurity,Security Analyst,1,0,None,2,"Linux, Networking",Hybrid,6

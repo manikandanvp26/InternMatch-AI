@@ -1,0 +1,901 @@
+﻿education,domain_interest,career_goal,projects_count,certifications_count,experience_level,skills_count,internship_category
+B.Tech ECE,Machine Learning,Data Analyst,2,1,College project,3,Data Analytics
+B.Tech CSE,Machine Learning,Cloud Engineer,0,0,College project,4,Machine Learning
+B.Tech ECE,Data Analytics,Web Developer,5,5,Freelance,4,Data Analytics
+B.Tech AI & DS,Software Testing,Data Analyst,6,1,Freelance,6,Data Analytics
+B.Tech CSE,Web Development,Security Analyst,0,3,None,6,Web Development
+B.Tech ECE,Software Testing,Data Analyst,3,4,None,7,Python Development
+B.Tech ECE,Cybersecurity,Web Developer,0,0,College project,5,Web Development
+BCA,Web Development,ML Engineer,2,3,Internship,3,Machine Learning
+B.Tech ECE,Web Development,QA Engineer,5,5,None,10,Web Development
+BCA,Web Development,Python Developer,3,2,College project,11,Python Development
+B.Tech AI & DS,Data Analytics,Web Developer,0,2,Freelance,5,Software Testing
+B.Tech ECE,Cybersecurity,Web Developer,3,3,Freelance,3,Web Development
+B.Tech ECE,Web Development,QA Engineer,4,3,Freelance,6,Web Development
+B.Tech CSE,Python Development,Undecided,6,0,None,3,Cybersecurity
+BCA,Cloud Computing,ML Engineer,3,4,Freelance,9,Machine Learning
+B.Tech ECE,Data Analytics,ML Engineer,4,2,Internship,2,Data Analytics
+B.Tech CSE,Python Development,Undecided,5,5,Internship,9,Machine Learning
+B.Tech AI & DS,Machine Learning,QA Engineer,5,4,College project,3,Machine Learning
+MCA,Python Development,Data Analyst,2,3,None,2,Data Analytics
+B.Tech CSE,Software Testing,Web Developer,1,4,None,2,Web Development
+B.Tech IT,Machine Learning,Python Developer,5,3,College project,5,Machine Learning
+MCA,Cloud Computing,Web Developer,6,5,College project,12,Web Development
+MCA,Cybersecurity,Undecided,3,0,College project,4,Data Analytics
+B.Tech CSE,Web Development,Web Developer,0,5,None,4,Data Analytics
+MCA,Cybersecurity,ML Engineer,1,2,Freelance,4,Machine Learning
+B.Tech AI & DS,Product Management,Web Developer,3,3,College project,2,Machine Learning
+BCA,Cloud Computing,Security Analyst,3,3,None,11,Cybersecurity
+BCA,Machine Learning,Data Analyst,5,2,None,4,Data Analytics
+BCA,Product Management,Python Developer,1,2,Freelance,4,Python Development
+B.Tech AI & DS,Machine Learning,Undecided,6,4,None,1,Machine Learning
+B.Tech AI & DS,Data Analytics,ML Engineer,6,1,College project,7,Data Analytics
+B.Tech CSE,Web Development,Cloud Engineer,1,3,None,7,Web Development
+BCA,Product Management,QA Engineer,5,5,Freelance,3,Software Testing
+MCA,Web Development,Data Analyst,5,4,None,12,Data Analytics
+MCA,Data Analytics,Undecided,6,4,College project,1,Data Analytics
+B.Tech CSE,Machine Learning,Python Developer,4,0,College project,7,Machine Learning
+MCA,Web Development,Data Analyst,0,3,Internship,5,Data Analytics
+B.Sc Computer Science,Cybersecurity,Web Developer,3,1,Internship,8,Web Development
+BCA,Machine Learning,Data Analyst,4,4,None,2,Data Analytics
+B.Sc Computer Science,Software Testing,Python Developer,0,1,Internship,5,Python Development
+B.Tech ECE,Software Testing,Data Analyst,6,4,Internship,11,Data Analytics
+B.Tech CSE,Python Development,QA Engineer,0,5,College project,5,Software Testing
+B.Tech IT,Web Development,Security Analyst,5,5,Internship,9,Web Development
+B.Tech ECE,Data Analytics,ML Engineer,3,2,None,1,Data Analytics
+B.Tech IT,Python Development,QA Engineer,5,3,Freelance,9,Data Analytics
+B.Tech AI & DS,Python Development,Data Analyst,2,4,College project,7,Data Analytics
+B.Tech AI & DS,Software Testing,Security Analyst,6,0,Internship,4,Machine Learning
+B.Tech AI & DS,Machine Learning,Security Analyst,4,3,College project,4,Machine Learning
+B.Tech CSE,Python Development,Cloud Engineer,1,5,Internship,7,Cybersecurity
+B.Tech IT,Web Development,QA Engineer,6,5,None,7,Web Development
+B.Tech IT,Product Management,Web Developer,6,3,Internship,5,Web Development
+B.Tech CSE,Web Development,Web Developer,5,1,Freelance,6,Web Development
+B.Sc Computer Science,Machine Learning,QA Engineer,5,4,Freelance,11,Machine Learning
+B.Tech CSE,Cybersecurity,Data Analyst,2,1,Internship,1,Data Analytics
+B.Tech ECE,Cloud Computing,Security Analyst,6,2,Freelance,10,Cybersecurity
+MCA,Machine Learning,Cloud Engineer,1,2,None,12,Machine Learning
+BCA,Web Development,Security Analyst,0,5,Internship,10,Web Development
+MCA,Machine Learning,QA Engineer,2,5,Freelance,6,Machine Learning
+B.Tech IT,Software Testing,Python Developer,3,5,Freelance,11,Python Development
+BCA,Python Development,QA Engineer,4,0,Internship,5,Software Testing
+BCA,Cybersecurity,Undecided,3,5,College project,9,Cybersecurity
+B.Sc Computer Science,Python Development,ML Engineer,4,5,Internship,2,Machine Learning
+B.Tech IT,Web Development,QA Engineer,6,1,College project,1,Web Development
+BCA,Machine Learning,Undecided,5,4,College project,12,Machine Learning
+B.Tech IT,Product Management,Cloud Engineer,1,5,None,2,Web Development
+MCA,Product Management,Data Analyst,1,0,Freelance,3,Data Analytics
+MCA,Cybersecurity,Undecided,6,5,Freelance,9,Cybersecurity
+BCA,Python Development,Undecided,2,1,Internship,9,Web Development
+B.Tech CSE,Software Testing,Undecided,5,2,College project,5,Software Testing
+B.Tech IT,Machine Learning,Python Developer,1,3,College project,12,Machine Learning
+B.Sc Computer Science,Cloud Computing,Cloud Engineer,4,3,Freelance,1,Cybersecurity
+B.Tech AI & DS,Cloud Computing,Cloud Engineer,4,5,None,10,Machine Learning
+B.Sc Computer Science,Data Analytics,Security Analyst,6,3,Freelance,9,Data Analytics
+B.Tech IT,Web Development,Undecided,2,3,Freelance,1,Web Development
+B.Tech AI & DS,Cloud Computing,Python Developer,3,1,None,7,Machine Learning
+B.Tech ECE,Data Analytics,ML Engineer,3,1,Freelance,3,Web Development
+BCA,Cybersecurity,Web Developer,2,2,Freelance,5,Web Development
+B.Tech AI & DS,Cloud Computing,QA Engineer,0,3,None,12,Machine Learning
+B.Tech ECE,Cybersecurity,Web Developer,0,5,None,1,Web Development
+MCA,Web Development,Data Analyst,1,1,College project,8,Data Analytics
+B.Tech ECE,Web Development,Undecided,2,2,College project,10,Web Development
+B.Sc Computer Science,Machine Learning,Python Developer,0,4,None,5,Machine Learning
+B.Tech ECE,Cloud Computing,Cloud Engineer,1,0,College project,2,Cybersecurity
+B.Tech AI & DS,Software Testing,ML Engineer,4,0,Internship,9,Machine Learning
+MCA,Cybersecurity,ML Engineer,5,2,None,7,Machine Learning
+B.Sc Computer Science,Machine Learning,Cloud Engineer,5,3,College project,7,Machine Learning
+BCA,Software Testing,Undecided,3,5,Internship,6,Software Testing
+BCA,Machine Learning,QA Engineer,1,3,Freelance,6,Python Development
+B.Tech IT,Python Development,Undecided,2,2,Internship,5,Software Testing
+MCA,Software Testing,Data Analyst,1,0,College project,12,Data Analytics
+B.Tech ECE,Web Development,Undecided,5,3,Freelance,1,Web Development
+B.Tech ECE,Web Development,Cloud Engineer,1,2,Internship,8,Web Development
+B.Tech ECE,Cybersecurity,Cloud Engineer,4,2,Internship,12,Cybersecurity
+B.Tech IT,Software Testing,QA Engineer,0,5,College project,6,Software Testing
+B.Tech IT,Python Development,Web Developer,5,3,Internship,12,Web Development
+B.Tech AI & DS,Software Testing,ML Engineer,1,2,College project,6,Machine Learning
+B.Sc Computer Science,Data Analytics,Python Developer,0,0,Internship,12,Data Analytics
+B.Tech AI & DS,Product Management,ML Engineer,0,4,Internship,8,Machine Learning
+B.Tech CSE,Cybersecurity,Python Developer,2,3,None,2,Python Development
+B.Tech IT,Machine Learning,Data Analyst,1,4,Internship,2,Data Analytics
+MCA,Machine Learning,Cloud Engineer,4,4,College project,9,Machine Learning
+B.Tech AI & DS,Product Management,QA Engineer,4,3,Internship,10,Machine Learning
+B.Tech ECE,Machine Learning,Web Developer,1,2,None,3,Machine Learning
+B.Tech CSE,Machine Learning,Python Developer,3,3,Freelance,5,Python Development
+B.Tech CSE,Software Testing,Undecided,5,1,Internship,11,Software Testing
+B.Tech CSE,Web Development,Cloud Engineer,4,1,College project,5,Web Development
+B.Tech IT,Machine Learning,Data Analyst,6,2,Internship,8,Data Analytics
+B.Sc Computer Science,Software Testing,Cloud Engineer,4,4,Freelance,8,Software Testing
+B.Tech ECE,Data Analytics,Cloud Engineer,2,4,Internship,1,Data Analytics
+MCA,Data Analytics,QA Engineer,0,1,Freelance,9,Data Analytics
+MCA,Software Testing,Python Developer,3,5,Freelance,2,Python Development
+B.Sc Computer Science,Cloud Computing,Security Analyst,5,0,College project,6,Cybersecurity
+B.Tech ECE,Product Management,QA Engineer,3,4,None,8,Software Testing
+B.Tech CSE,Software Testing,Security Analyst,6,3,None,11,Cybersecurity
+B.Tech CSE,Product Management,Cloud Engineer,1,4,Internship,10,Web Development
+B.Sc Computer Science,Data Analytics,Web Developer,4,1,Internship,8,Data Analytics
+B.Tech CSE,Product Management,ML Engineer,5,4,College project,12,Machine Learning
+B.Tech CSE,Data Analytics,Cloud Engineer,1,0,Freelance,2,Data Analytics
+B.Tech ECE,Python Development,Undecided,2,4,Internship,7,Web Development
+MCA,Web Development,Undecided,1,3,College project,10,Web Development
+B.Sc Computer Science,Python Development,ML Engineer,6,3,Internship,9,Machine Learning
+B.Tech ECE,Data Analytics,QA Engineer,2,4,Freelance,3,Data Analytics
+B.Sc Computer Science,Product Management,Security Analyst,4,4,Freelance,8,Cybersecurity
+MCA,Web Development,Web Developer,3,1,Freelance,1,Web Development
+BCA,Product Management,Cloud Engineer,5,5,College project,8,Data Analytics
+B.Tech AI & DS,Cybersecurity,ML Engineer,6,3,None,9,Machine Learning
+BCA,Data Analytics,Python Developer,6,5,College project,2,Data Analytics
+MCA,Software Testing,Security Analyst,5,3,None,6,Cybersecurity
+B.Tech ECE,Cloud Computing,Security Analyst,5,3,None,10,Cybersecurity
+B.Tech ECE,Software Testing,Web Developer,0,3,None,11,Web Development
+B.Tech IT,Machine Learning,Undecided,5,2,None,1,Machine Learning
+B.Sc Computer Science,Data Analytics,QA Engineer,2,3,College project,4,Data Analytics
+B.Tech IT,Python Development,Python Developer,0,4,Freelance,10,Python Development
+B.Tech IT,Product Management,Python Developer,3,5,Internship,8,Python Development
+B.Sc Computer Science,Data Analytics,Undecided,5,4,College project,2,Data Analytics
+B.Tech ECE,Cybersecurity,QA Engineer,3,5,Internship,8,Software Testing
+B.Tech AI & DS,Web Development,Cloud Engineer,3,0,College project,7,Machine Learning
+B.Tech CSE,Software Testing,QA Engineer,6,5,Freelance,5,Cybersecurity
+B.Tech AI & DS,Data Analytics,Undecided,2,1,Internship,4,Data Analytics
+B.Tech ECE,Software Testing,Python Developer,0,5,None,5,Python Development
+B.Tech ECE,Data Analytics,Security Analyst,1,0,Internship,6,Data Analytics
+B.Tech IT,Python Development,Web Developer,6,4,Internship,9,Web Development
+B.Sc Computer Science,Software Testing,Python Developer,6,3,Internship,12,Python Development
+B.Tech CSE,Machine Learning,Undecided,1,1,Freelance,9,Machine Learning
+B.Sc Computer Science,Cloud Computing,Data Analyst,4,0,Freelance,6,Data Analytics
+B.Tech AI & DS,Software Testing,Cloud Engineer,5,2,None,11,Machine Learning
+MCA,Data Analytics,Security Analyst,1,5,None,11,Data Analytics
+B.Tech CSE,Software Testing,Cloud Engineer,1,0,None,5,Software Testing
+B.Tech IT,Machine Learning,ML Engineer,4,1,Freelance,8,Machine Learning
+BCA,Cloud Computing,Python Developer,5,0,Freelance,10,Python Development
+B.Tech ECE,Software Testing,Data Analyst,2,1,Freelance,8,Data Analytics
+B.Tech ECE,Cybersecurity,ML Engineer,2,4,Internship,1,Machine Learning
+B.Tech AI & DS,Web Development,ML Engineer,6,3,None,11,Machine Learning
+B.Tech AI & DS,Data Analytics,Data Analyst,2,1,College project,10,Data Analytics
+B.Tech AI & DS,Web Development,Web Developer,6,1,Internship,3,Machine Learning
+B.Tech AI & DS,Data Analytics,QA Engineer,1,1,Internship,3,Data Analytics
+B.Tech CSE,Data Analytics,Python Developer,2,1,Internship,1,Data Analytics
+B.Tech ECE,Data Analytics,Python Developer,3,4,None,12,Web Development
+BCA,Cybersecurity,ML Engineer,4,1,None,12,Machine Learning
+B.Tech ECE,Software Testing,Undecided,0,0,Freelance,7,Software Testing
+B.Tech ECE,Machine Learning,Undecided,3,0,None,6,Machine Learning
+B.Sc Computer Science,Machine Learning,Python Developer,4,5,Internship,7,Machine Learning
+MCA,Software Testing,Undecided,4,3,None,12,Software Testing
+BCA,Web Development,Cloud Engineer,1,3,Internship,8,Web Development
+BCA,Machine Learning,Security Analyst,2,5,Internship,6,Machine Learning
+B.Tech CSE,Product Management,ML Engineer,6,0,None,7,Machine Learning
+MCA,Cybersecurity,Python Developer,0,4,Internship,11,Python Development
+B.Tech AI & DS,Cybersecurity,Cloud Engineer,5,0,Internship,10,Machine Learning
+B.Tech IT,Machine Learning,Web Developer,5,3,College project,2,Machine Learning
+B.Tech AI & DS,Cybersecurity,ML Engineer,2,4,College project,7,Machine Learning
+B.Tech CSE,Data Analytics,QA Engineer,1,2,Internship,6,Data Analytics
+MCA,Python Development,Python Developer,5,3,None,3,Python Development
+B.Tech ECE,Data Analytics,ML Engineer,4,1,Freelance,7,Data Analytics
+B.Sc Computer Science,Python Development,Security Analyst,5,2,None,1,Cybersecurity
+B.Sc Computer Science,Data Analytics,ML Engineer,3,5,Freelance,8,Data Analytics
+B.Tech IT,Cloud Computing,QA Engineer,6,4,None,6,Software Testing
+MCA,Software Testing,Undecided,5,2,None,4,Software Testing
+B.Tech IT,Data Analytics,Data Analyst,2,1,College project,5,Data Analytics
+BCA,Machine Learning,Data Analyst,5,3,College project,3,Data Analytics
+B.Tech CSE,Web Development,Security Analyst,3,5,None,7,Data Analytics
+MCA,Cybersecurity,Cloud Engineer,3,5,Freelance,5,Cybersecurity
+B.Tech IT,Data Analytics,Security Analyst,6,4,Freelance,12,Data Analytics
+B.Tech AI & DS,Machine Learning,Cloud Engineer,0,1,Freelance,10,Machine Learning
+B.Tech AI & DS,Machine Learning,Cloud Engineer,2,5,Internship,4,Machine Learning
+MCA,Python Development,ML Engineer,5,0,College project,6,Machine Learning
+B.Tech CSE,Python Development,Web Developer,1,2,College project,3,Web Development
+B.Tech AI & DS,Machine Learning,Python Developer,5,3,Freelance,10,Machine Learning
+B.Tech AI & DS,Product Management,Security Analyst,5,2,College project,8,Web Development
+MCA,Software Testing,QA Engineer,0,2,None,5,Software Testing
+B.Sc Computer Science,Data Analytics,Data Analyst,6,2,None,11,Data Analytics
+BCA,Machine Learning,Cloud Engineer,4,4,None,8,Machine Learning
+MCA,Web Development,Security Analyst,3,4,College project,1,Web Development
+MCA,Cybersecurity,ML Engineer,5,1,None,4,Machine Learning
+B.Sc Computer Science,Product Management,Python Developer,2,2,Freelance,7,Python Development
+B.Tech CSE,Data Analytics,Security Analyst,2,0,Freelance,5,Data Analytics
+B.Tech CSE,Python Development,Security Analyst,4,5,College project,6,Cybersecurity
+MCA,Cloud Computing,Python Developer,5,0,Internship,9,Python Development
+B.Tech ECE,Cybersecurity,Python Developer,5,5,None,11,Python Development
+B.Sc Computer Science,Cybersecurity,Data Analyst,2,1,College project,6,Data Analytics
+B.Tech IT,Product Management,Web Developer,1,1,None,5,Web Development
+B.Tech ECE,Machine Learning,Data Analyst,2,4,College project,10,Data Analytics
+B.Tech AI & DS,Python Development,Python Developer,5,4,College project,12,Machine Learning
+B.Tech ECE,Cloud Computing,Security Analyst,5,1,Freelance,10,Cybersecurity
+MCA,Product Management,Web Developer,1,2,Freelance,4,Web Development
+B.Tech AI & DS,Product Management,Undecided,2,3,Freelance,3,Machine Learning
+B.Tech CSE,Python Development,QA Engineer,5,3,Internship,9,Software Testing
+B.Tech CSE,Machine Learning,QA Engineer,6,1,Internship,8,Machine Learning
+B.Tech CSE,Python Development,Cloud Engineer,1,3,Internship,1,Software Testing
+BCA,Cybersecurity,Web Developer,0,2,College project,1,Web Development
+B.Tech AI & DS,Machine Learning,Security Analyst,1,1,None,5,Machine Learning
+B.Tech AI & DS,Product Management,Python Developer,5,3,Freelance,10,Data Analytics
+B.Tech IT,Data Analytics,QA Engineer,6,1,Freelance,2,Data Analytics
+B.Tech CSE,Web Development,QA Engineer,0,1,Freelance,11,Web Development
+B.Tech CSE,Product Management,ML Engineer,6,3,None,11,Machine Learning
+B.Sc Computer Science,Web Development,Python Developer,3,0,Internship,4,Python Development
+MCA,Python Development,ML Engineer,2,0,None,7,Machine Learning
+B.Sc Computer Science,Data Analytics,Cloud Engineer,2,5,None,6,Data Analytics
+B.Tech ECE,Cybersecurity,Web Developer,5,5,None,10,Web Development
+B.Tech CSE,Cybersecurity,Python Developer,2,4,Internship,11,Python Development
+B.Tech ECE,Product Management,Undecided,1,1,None,12,Machine Learning
+B.Tech CSE,Data Analytics,Web Developer,2,2,Freelance,9,Data Analytics
+B.Sc Computer Science,Data Analytics,Web Developer,2,0,Internship,5,Data Analytics
+BCA,Cybersecurity,Cloud Engineer,5,3,Freelance,6,Cybersecurity
+B.Sc Computer Science,Product Management,Undecided,6,4,Internship,2,Cybersecurity
+MCA,Cloud Computing,Python Developer,2,2,None,2,Python Development
+BCA,Software Testing,QA Engineer,4,5,Freelance,3,Software Testing
+B.Tech CSE,Cybersecurity,Undecided,5,2,Freelance,5,Cybersecurity
+B.Tech ECE,Data Analytics,ML Engineer,5,3,Internship,9,Data Analytics
+B.Tech IT,Python Development,Data Analyst,6,4,Freelance,1,Data Analytics
+B.Sc Computer Science,Web Development,Security Analyst,3,4,None,10,Web Development
+B.Sc Computer Science,Product Management,Security Analyst,3,0,College project,9,Cybersecurity
+B.Tech IT,Cybersecurity,QA Engineer,0,0,College project,8,Software Testing
+B.Tech AI & DS,Machine Learning,QA Engineer,2,5,Freelance,4,Machine Learning
+B.Tech IT,Software Testing,Undecided,0,1,None,8,Software Testing
+B.Tech AI & DS,Product Management,ML Engineer,5,2,Internship,12,Software Testing
+B.Tech AI & DS,Software Testing,QA Engineer,1,5,College project,6,Machine Learning
+B.Tech AI & DS,Machine Learning,Web Developer,1,1,Freelance,1,Machine Learning
+B.Tech AI & DS,Cybersecurity,Undecided,4,1,None,2,Machine Learning
+B.Tech AI & DS,Product Management,Cloud Engineer,3,4,None,3,Machine Learning
+BCA,Machine Learning,Undecided,5,4,Internship,3,Machine Learning
+BCA,Python Development,Python Developer,4,0,None,9,Python Development
+B.Sc Computer Science,Python Development,Python Developer,5,1,Internship,9,Python Development
+B.Tech IT,Machine Learning,QA Engineer,5,4,Internship,3,Machine Learning
+MCA,Machine Learning,Python Developer,4,1,College project,11,Machine Learning
+B.Tech AI & DS,Cybersecurity,Data Analyst,6,0,None,1,Data Analytics
+B.Tech AI & DS,Software Testing,Web Developer,4,3,None,8,Machine Learning
+BCA,Software Testing,QA Engineer,1,5,Freelance,5,Software Testing
+BCA,Data Analytics,Python Developer,3,3,Freelance,4,Data Analytics
+B.Tech AI & DS,Python Development,Security Analyst,5,2,Internship,7,Machine Learning
+B.Sc Computer Science,Cybersecurity,ML Engineer,1,3,None,5,Machine Learning
+B.Tech CSE,Python Development,ML Engineer,2,3,Freelance,4,Machine Learning
+MCA,Python Development,Security Analyst,5,2,College project,3,Cybersecurity
+B.Sc Computer Science,Product Management,Undecided,3,0,None,7,Software Testing
+MCA,Web Development,Web Developer,2,0,None,5,Web Development
+MCA,Product Management,QA Engineer,0,0,Freelance,3,Software Testing
+B.Sc Computer Science,Cybersecurity,Cloud Engineer,0,3,None,10,Cybersecurity
+B.Tech CSE,Cybersecurity,QA Engineer,3,4,Freelance,9,Software Testing
+B.Tech CSE,Machine Learning,Python Developer,3,2,Internship,9,Machine Learning
+MCA,Python Development,Web Developer,4,3,None,1,Cybersecurity
+MCA,Cybersecurity,Undecided,3,1,College project,6,Cybersecurity
+BCA,Cybersecurity,Python Developer,4,5,Internship,10,Python Development
+BCA,Product Management,QA Engineer,6,0,Internship,6,Software Testing
+B.Tech AI & DS,Cloud Computing,QA Engineer,5,5,None,10,Machine Learning
+MCA,Web Development,Data Analyst,3,1,Freelance,3,Data Analytics
+MCA,Web Development,Data Analyst,5,0,College project,1,Data Analytics
+BCA,Cloud Computing,Python Developer,5,1,Freelance,9,Python Development
+B.Tech ECE,Product Management,Data Analyst,1,4,College project,9,Data Analytics
+B.Sc Computer Science,Product Management,Cloud Engineer,1,3,Internship,9,Python Development
+B.Tech IT,Software Testing,Undecided,1,2,Internship,4,Software Testing
+B.Tech ECE,Software Testing,QA Engineer,1,5,Freelance,6,Software Testing
+B.Tech CSE,Software Testing,QA Engineer,4,5,Freelance,7,Software Testing
+B.Tech CSE,Python Development,QA Engineer,2,5,None,6,Software Testing
+B.Tech IT,Software Testing,Undecided,1,4,Internship,9,Software Testing
+MCA,Python Development,ML Engineer,5,4,College project,4,Software Testing
+B.Tech CSE,Web Development,Web Developer,0,3,Internship,12,Web Development
+MCA,Python Development,Data Analyst,1,3,Freelance,8,Data Analytics
+B.Sc Computer Science,Software Testing,Security Analyst,5,0,None,11,Cybersecurity
+BCA,Data Analytics,Python Developer,6,1,None,7,Data Analytics
+B.Tech CSE,Python Development,QA Engineer,0,2,None,6,Software Testing
+B.Tech AI & DS,Product Management,Python Developer,4,3,Internship,4,Machine Learning
+B.Tech ECE,Cybersecurity,Python Developer,3,5,Internship,12,Python Development
+MCA,Cybersecurity,QA Engineer,5,1,College project,10,Software Testing
+MCA,Cloud Computing,Cloud Engineer,2,0,Freelance,11,Python Development
+B.Sc Computer Science,Python Development,Undecided,1,0,Internship,7,Machine Learning
+B.Sc Computer Science,Software Testing,Security Analyst,4,5,None,5,Cybersecurity
+B.Tech ECE,Web Development,Data Analyst,0,3,Internship,3,Data Analytics
+B.Tech ECE,Software Testing,ML Engineer,2,2,College project,4,Machine Learning
+BCA,Product Management,Python Developer,5,4,Internship,7,Python Development
+B.Tech AI & DS,Product Management,Web Developer,1,5,None,9,Machine Learning
+MCA,Cybersecurity,ML Engineer,0,0,College project,10,Machine Learning
+B.Tech AI & DS,Python Development,Security Analyst,4,3,None,11,Machine Learning
+MCA,Product Management,ML Engineer,3,0,Freelance,3,Machine Learning
+MCA,Product Management,Data Analyst,3,5,Internship,12,Python Development
+MCA,Data Analytics,Web Developer,0,0,Freelance,6,Data Analytics
+BCA,Data Analytics,ML Engineer,0,2,Freelance,3,Data Analytics
+BCA,Cloud Computing,Security Analyst,3,3,Freelance,2,Cybersecurity
+B.Tech CSE,Python Development,Security Analyst,1,4,Freelance,9,Cybersecurity
+B.Tech AI & DS,Web Development,Data Analyst,0,2,Freelance,11,Data Analytics
+B.Tech AI & DS,Cloud Computing,Cloud Engineer,1,1,Freelance,6,Machine Learning
+B.Tech CSE,Web Development,ML Engineer,6,5,Freelance,10,Machine Learning
+B.Tech IT,Data Analytics,Web Developer,0,0,None,8,Data Analytics
+B.Tech ECE,Data Analytics,Web Developer,0,3,Freelance,4,Data Analytics
+MCA,Data Analytics,Python Developer,2,1,Internship,10,Data Analytics
+B.Sc Computer Science,Cybersecurity,Web Developer,1,5,College project,7,Web Development
+B.Tech ECE,Data Analytics,Python Developer,5,3,Freelance,1,Data Analytics
+B.Tech ECE,Cloud Computing,Security Analyst,3,3,College project,5,Cybersecurity
+B.Tech AI & DS,Product Management,Web Developer,1,2,College project,8,Machine Learning
+MCA,Cloud Computing,Cloud Engineer,4,1,Freelance,4,Cybersecurity
+BCA,Cybersecurity,ML Engineer,6,2,None,9,Machine Learning
+B.Sc Computer Science,Web Development,Data Analyst,3,5,None,2,Data Analytics
+B.Tech IT,Web Development,Undecided,6,2,Internship,1,Web Development
+B.Tech ECE,Web Development,ML Engineer,6,3,College project,12,Machine Learning
+B.Tech IT,Web Development,Cloud Engineer,4,2,Internship,7,Web Development
+B.Sc Computer Science,Cybersecurity,QA Engineer,2,4,Freelance,8,Software Testing
+B.Tech IT,Product Management,Security Analyst,2,2,Freelance,1,Cybersecurity
+B.Tech CSE,Web Development,Python Developer,2,4,Freelance,5,Python Development
+BCA,Cybersecurity,Web Developer,4,1,Freelance,9,Web Development
+B.Tech AI & DS,Cybersecurity,QA Engineer,6,3,Freelance,8,Machine Learning
+B.Tech IT,Cybersecurity,Python Developer,5,4,Freelance,3,Python Development
+B.Tech AI & DS,Data Analytics,Data Analyst,6,0,None,1,Data Analytics
+B.Tech ECE,Web Development,ML Engineer,1,0,College project,9,Machine Learning
+B.Tech ECE,Data Analytics,Undecided,3,0,None,9,Data Analytics
+MCA,Data Analytics,Data Analyst,5,2,Internship,1,Data Analytics
+B.Tech CSE,Cloud Computing,Python Developer,0,4,College project,4,Python Development
+B.Sc Computer Science,Software Testing,Security Analyst,6,3,None,6,Cybersecurity
+B.Tech ECE,Product Management,Web Developer,1,2,None,11,Web Development
+BCA,Data Analytics,ML Engineer,3,3,Freelance,1,Data Analytics
+BCA,Python Development,ML Engineer,6,3,Internship,10,Machine Learning
+B.Tech IT,Machine Learning,Data Analyst,1,5,Freelance,5,Data Analytics
+B.Tech IT,Software Testing,Data Analyst,6,2,None,4,Data Analytics
+B.Sc Computer Science,Cloud Computing,ML Engineer,1,4,College project,10,Machine Learning
+BCA,Cloud Computing,Security Analyst,6,5,College project,12,Cybersecurity
+B.Tech CSE,Cybersecurity,Data Analyst,3,1,None,6,Data Analytics
+B.Tech CSE,Cloud Computing,Security Analyst,5,2,Freelance,8,Cybersecurity
+B.Tech IT,Cloud Computing,Cloud Engineer,5,4,Freelance,2,Cybersecurity
+B.Tech ECE,Software Testing,Web Developer,0,0,Internship,3,Web Development
+B.Sc Computer Science,Python Development,Cloud Engineer,2,0,None,1,Python Development
+B.Tech IT,Software Testing,ML Engineer,0,1,Freelance,8,Machine Learning
+B.Tech CSE,Cloud Computing,ML Engineer,0,2,None,10,Machine Learning
+B.Tech CSE,Cybersecurity,Cloud Engineer,2,3,Freelance,2,Cybersecurity
+B.Tech ECE,Web Development,Python Developer,3,1,College project,5,Python Development
+B.Tech CSE,Product Management,Python Developer,1,3,Internship,7,Python Development
+B.Sc Computer Science,Machine Learning,Security Analyst,1,5,Freelance,10,Machine Learning
+B.Tech IT,Product Management,ML Engineer,2,0,Freelance,6,Machine Learning
+BCA,Cloud Computing,Security Analyst,2,3,College project,5,Cybersecurity
+B.Sc Computer Science,Web Development,Undecided,1,3,Internship,5,Web Development
+B.Sc Computer Science,Product Management,Web Developer,3,2,Freelance,6,Web Development
+B.Tech ECE,Web Development,Python Developer,6,4,None,12,Python Development
+B.Tech AI & DS,Web Development,Undecided,2,5,None,7,Machine Learning
+B.Tech IT,Python Development,QA Engineer,2,5,College project,12,Software Testing
+BCA,Cloud Computing,ML Engineer,4,3,Freelance,9,Machine Learning
+B.Tech AI & DS,Cloud Computing,Data Analyst,2,5,None,2,Data Analytics
+B.Tech ECE,Cybersecurity,Python Developer,4,0,Freelance,6,Python Development
+B.Tech CSE,Cloud Computing,ML Engineer,0,2,College project,9,Machine Learning
+B.Sc Computer Science,Web Development,Undecided,3,3,College project,6,Web Development
+B.Sc Computer Science,Product Management,ML Engineer,3,0,None,12,Machine Learning
+BCA,Software Testing,Security Analyst,6,1,Freelance,6,Cybersecurity
+B.Sc Computer Science,Product Management,Undecided,0,2,None,12,Python Development
+B.Tech ECE,Machine Learning,Python Developer,1,4,College project,9,Machine Learning
+B.Tech IT,Cloud Computing,Undecided,6,3,College project,3,Cybersecurity
+B.Tech CSE,Cloud Computing,Cloud Engineer,5,4,College project,8,Python Development
+B.Tech ECE,Cloud Computing,Data Analyst,1,1,Internship,12,Data Analytics
+B.Tech AI & DS,Machine Learning,ML Engineer,6,4,College project,6,Machine Learning
+B.Sc Computer Science,Product Management,ML Engineer,5,3,Internship,10,Machine Learning
+B.Sc Computer Science,Cloud Computing,ML Engineer,2,3,College project,11,Machine Learning
+B.Tech ECE,Software Testing,ML Engineer,1,2,None,4,Machine Learning
+B.Tech ECE,Python Development,Security Analyst,1,4,Freelance,7,Cybersecurity
+B.Tech IT,Cloud Computing,Cloud Engineer,3,5,College project,9,Python Development
+B.Tech IT,Software Testing,Python Developer,2,3,None,6,Python Development
+B.Tech IT,Product Management,Python Developer,6,3,Freelance,7,Python Development
+BCA,Cloud Computing,Undecided,1,0,None,4,Cybersecurity
+MCA,Software Testing,Web Developer,2,1,Freelance,10,Web Development
+MCA,Product Management,ML Engineer,0,2,Internship,9,Machine Learning
+MCA,Data Analytics,Undecided,1,3,None,12,Data Analytics
+B.Tech AI & DS,Web Development,QA Engineer,0,3,Internship,6,Machine Learning
+B.Tech AI & DS,Machine Learning,Undecided,0,1,College project,12,Machine Learning
+B.Tech IT,Cybersecurity,Cloud Engineer,4,1,College project,4,Cybersecurity
+MCA,Cybersecurity,QA Engineer,4,1,Internship,12,Software Testing
+B.Tech IT,Software Testing,ML Engineer,6,3,None,5,Machine Learning
+B.Tech IT,Python Development,Python Developer,1,5,Internship,4,Python Development
+B.Tech IT,Cloud Computing,Undecided,4,5,Internship,11,Python Development
+B.Tech ECE,Product Management,ML Engineer,6,0,Freelance,9,Machine Learning
+BCA,Cybersecurity,Undecided,2,4,None,12,Cybersecurity
+B.Tech AI & DS,Product Management,Security Analyst,0,4,Freelance,4,Machine Learning
+B.Sc Computer Science,Web Development,Undecided,2,2,Internship,9,Web Development
+B.Tech ECE,Product Management,Security Analyst,6,0,None,2,Cybersecurity
+B.Tech CSE,Product Management,Data Analyst,6,1,Freelance,8,Web Development
+B.Tech ECE,Web Development,Python Developer,2,1,Internship,2,Python Development
+B.Sc Computer Science,Software Testing,ML Engineer,5,5,College project,1,Machine Learning
+BCA,Software Testing,Web Developer,5,0,None,1,Web Development
+MCA,Machine Learning,Python Developer,1,4,Freelance,1,Python Development
+B.Tech ECE,Machine Learning,Cloud Engineer,1,3,None,4,Machine Learning
+B.Sc Computer Science,Machine Learning,ML Engineer,2,2,College project,7,Machine Learning
+B.Tech CSE,Python Development,Python Developer,4,4,None,10,Python Development
+B.Tech ECE,Product Management,Security Analyst,1,5,College project,7,Cybersecurity
+B.Tech CSE,Product Management,Web Developer,0,1,None,10,Web Development
+B.Sc Computer Science,Cybersecurity,Cloud Engineer,6,1,College project,5,Cybersecurity
+B.Tech AI & DS,Web Development,QA Engineer,5,0,Internship,4,Machine Learning
+B.Sc Computer Science,Web Development,Cloud Engineer,5,0,College project,8,Web Development
+B.Tech ECE,Web Development,Undecided,4,0,None,6,Web Development
+B.Tech AI & DS,Python Development,Cloud Engineer,6,4,Freelance,6,Machine Learning
+B.Tech AI & DS,Python Development,Undecided,0,0,None,1,Machine Learning
+B.Tech AI & DS,Data Analytics,Data Analyst,3,4,Internship,11,Data Analytics
+B.Tech ECE,Cloud Computing,Cloud Engineer,3,0,College project,5,Cybersecurity
+B.Tech AI & DS,Machine Learning,Web Developer,1,4,Internship,7,Machine Learning
+B.Tech ECE,Machine Learning,QA Engineer,3,5,College project,1,Machine Learning
+BCA,Cloud Computing,ML Engineer,4,4,None,5,Machine Learning
+B.Tech CSE,Python Development,ML Engineer,5,1,None,3,Machine Learning
+B.Tech IT,Cybersecurity,QA Engineer,2,1,Internship,12,Software Testing
+B.Tech AI & DS,Data Analytics,Security Analyst,3,2,None,5,Data Analytics
+BCA,Machine Learning,Undecided,4,2,None,8,Machine Learning
+B.Tech IT,Python Development,Security Analyst,2,0,None,4,Cybersecurity
+B.Tech AI & DS,Data Analytics,Data Analyst,6,0,College project,1,Data Analytics
+B.Tech IT,Cloud Computing,Python Developer,6,0,Freelance,4,Python Development
+B.Sc Computer Science,Cloud Computing,Security Analyst,6,0,Internship,2,Cybersecurity
+B.Tech IT,Data Analytics,Python Developer,6,4,None,7,Web Development
+B.Sc Computer Science,Software Testing,QA Engineer,0,4,Freelance,1,Software Testing
+B.Tech ECE,Software Testing,QA Engineer,4,1,Freelance,6,Software Testing
+B.Tech ECE,Product Management,Web Developer,4,1,College project,1,Web Development
+MCA,Data Analytics,Web Developer,2,5,None,6,Cybersecurity
+B.Tech CSE,Cloud Computing,QA Engineer,1,4,College project,7,Software Testing
+B.Tech ECE,Data Analytics,Python Developer,2,0,None,4,Data Analytics
+BCA,Cloud Computing,Security Analyst,5,0,None,9,Cybersecurity
+MCA,Cloud Computing,ML Engineer,4,0,Freelance,11,Machine Learning
+B.Sc Computer Science,Web Development,QA Engineer,6,2,Freelance,12,Web Development
+BCA,Cybersecurity,Security Analyst,2,1,None,4,Cybersecurity
+B.Tech CSE,Machine Learning,Python Developer,1,3,Freelance,6,Machine Learning
+BCA,Cybersecurity,Web Developer,2,3,Internship,2,Web Development
+B.Tech IT,Software Testing,Data Analyst,6,2,College project,2,Data Analytics
+MCA,Cybersecurity,Cloud Engineer,0,5,Internship,5,Cybersecurity
+BCA,Python Development,Data Analyst,6,3,College project,2,Data Analytics
+B.Tech CSE,Python Development,ML Engineer,0,1,College project,4,Machine Learning
+MCA,Cybersecurity,ML Engineer,4,2,None,1,Machine Learning
+B.Tech AI & DS,Web Development,Undecided,1,0,Internship,2,Web Development
+MCA,Data Analytics,Python Developer,3,5,Freelance,8,Cybersecurity
+B.Sc Computer Science,Cloud Computing,Python Developer,1,1,Internship,5,Python Development
+MCA,Python Development,Data Analyst,4,4,College project,11,Data Analytics
+B.Tech CSE,Cloud Computing,Undecided,0,2,Freelance,3,Cybersecurity
+BCA,Web Development,Data Analyst,6,5,Internship,8,Data Analytics
+MCA,Product Management,Security Analyst,4,2,Freelance,5,Cybersecurity
+B.Tech CSE,Cybersecurity,Web Developer,6,2,None,8,Web Development
+B.Tech CSE,Web Development,Python Developer,1,5,College project,5,Python Development
+MCA,Data Analytics,Web Developer,6,3,Internship,3,Data Analytics
+MCA,Cybersecurity,Security Analyst,0,5,Internship,10,Cybersecurity
+MCA,Web Development,Undecided,2,1,Freelance,1,Web Development
+B.Tech CSE,Web Development,Web Developer,4,3,None,6,Web Development
+B.Sc Computer Science,Web Development,Python Developer,5,1,Internship,1,Software Testing
+B.Tech AI & DS,Python Development,ML Engineer,4,2,None,6,Machine Learning
+B.Sc Computer Science,Cloud Computing,ML Engineer,2,2,College project,3,Machine Learning
+B.Tech ECE,Cloud Computing,Undecided,2,1,Internship,4,Cybersecurity
+B.Sc Computer Science,Python Development,Cloud Engineer,5,5,Internship,3,Machine Learning
+B.Tech IT,Cloud Computing,Data Analyst,4,2,College project,11,Data Analytics
+B.Sc Computer Science,Product Management,Python Developer,5,0,College project,6,Python Development
+B.Tech AI & DS,Python Development,ML Engineer,5,5,Internship,8,Machine Learning
+B.Sc Computer Science,Web Development,ML Engineer,2,0,None,1,Machine Learning
+BCA,Cloud Computing,Python Developer,3,3,Internship,9,Python Development
+B.Tech IT,Product Management,Web Developer,3,0,None,5,Python Development
+B.Sc Computer Science,Machine Learning,ML Engineer,1,3,College project,12,Data Analytics
+B.Tech ECE,Cybersecurity,Undecided,0,3,College project,10,Cybersecurity
+B.Tech CSE,Python Development,Data Analyst,2,1,College project,7,Data Analytics
+B.Sc Computer Science,Software Testing,QA Engineer,1,0,None,7,Software Testing
+B.Tech CSE,Product Management,Python Developer,2,0,Freelance,2,Python Development
+B.Tech CSE,Product Management,Web Developer,0,1,College project,11,Web Development
+B.Tech AI & DS,Machine Learning,Undecided,0,2,Freelance,8,Machine Learning
+B.Tech ECE,Software Testing,ML Engineer,4,3,College project,6,Machine Learning
+BCA,Cybersecurity,Python Developer,0,2,Freelance,8,Python Development
+B.Tech IT,Software Testing,Data Analyst,6,5,None,2,Data Analytics
+MCA,Cloud Computing,Web Developer,0,3,Freelance,9,Web Development
+BCA,Product Management,Web Developer,2,0,Freelance,12,Software Testing
+B.Tech AI & DS,Python Development,ML Engineer,3,1,College project,4,Machine Learning
+BCA,Python Development,Data Analyst,0,5,Freelance,4,Data Analytics
+B.Sc Computer Science,Python Development,QA Engineer,5,0,None,7,Software Testing
+MCA,Cybersecurity,QA Engineer,3,0,Freelance,2,Software Testing
+B.Tech CSE,Python Development,ML Engineer,4,0,Internship,9,Machine Learning
+BCA,Cloud Computing,QA Engineer,5,3,Freelance,1,Software Testing
+MCA,Cloud Computing,Python Developer,4,5,Freelance,1,Python Development
+B.Tech CSE,Cybersecurity,Web Developer,5,3,Internship,6,Python Development
+B.Tech AI & DS,Software Testing,QA Engineer,3,5,None,4,Machine Learning
+B.Sc Computer Science,Product Management,Security Analyst,5,3,None,4,Cybersecurity
+B.Tech AI & DS,Cloud Computing,Undecided,4,2,None,9,Machine Learning
+B.Tech ECE,Machine Learning,QA Engineer,4,3,College project,9,Machine Learning
+B.Tech IT,Data Analytics,Python Developer,6,1,None,4,Data Analytics
+B.Sc Computer Science,Cybersecurity,Web Developer,2,3,Freelance,11,Web Development
+B.Sc Computer Science,Data Analytics,Web Developer,3,4,Freelance,3,Data Analytics
+B.Sc Computer Science,Product Management,Security Analyst,1,2,None,5,Data Analytics
+B.Tech AI & DS,Python Development,Web Developer,1,5,College project,11,Machine Learning
+B.Tech AI & DS,Cloud Computing,Data Analyst,6,5,None,8,Data Analytics
+B.Tech IT,Python Development,Data Analyst,2,4,Internship,12,Data Analytics
+BCA,Software Testing,Cloud Engineer,6,2,Freelance,5,Software Testing
+MCA,Software Testing,Cloud Engineer,0,0,Internship,9,Software Testing
+B.Tech ECE,Software Testing,QA Engineer,0,3,None,6,Software Testing
+B.Sc Computer Science,Cybersecurity,QA Engineer,5,5,Internship,4,Software Testing
+B.Tech AI & DS,Web Development,Data Analyst,6,4,Freelance,11,Data Analytics
+B.Tech ECE,Python Development,Data Analyst,3,2,Internship,7,Data Analytics
+B.Sc Computer Science,Data Analytics,Web Developer,5,5,College project,11,Data Analytics
+MCA,Product Management,Security Analyst,2,1,College project,5,Cybersecurity
+B.Tech ECE,Python Development,QA Engineer,6,4,College project,11,Software Testing
+B.Sc Computer Science,Machine Learning,Web Developer,1,5,Internship,7,Machine Learning
+B.Sc Computer Science,Cybersecurity,Security Analyst,4,2,Freelance,2,Cybersecurity
+B.Tech IT,Machine Learning,Undecided,4,0,Freelance,9,Machine Learning
+B.Tech IT,Data Analytics,Python Developer,1,2,Freelance,10,Data Analytics
+B.Sc Computer Science,Product Management,Python Developer,6,5,College project,2,Python Development
+B.Tech ECE,Python Development,Security Analyst,0,0,Freelance,5,Cybersecurity
+BCA,Python Development,Python Developer,6,0,College project,10,Python Development
+BCA,Cloud Computing,Cloud Engineer,3,3,None,1,Cybersecurity
+B.Sc Computer Science,Cybersecurity,Data Analyst,6,4,College project,1,Data Analytics
+B.Tech ECE,Web Development,Web Developer,2,2,College project,2,Web Development
+B.Tech CSE,Software Testing,Python Developer,6,0,Internship,5,Python Development
+B.Tech ECE,Cybersecurity,Cloud Engineer,1,2,Freelance,6,Cybersecurity
+B.Tech CSE,Python Development,Cloud Engineer,1,1,College project,4,Software Testing
+B.Sc Computer Science,Python Development,ML Engineer,5,5,None,7,Machine Learning
+MCA,Software Testing,Data Analyst,0,5,None,11,Data Analytics
+BCA,Data Analytics,ML Engineer,3,3,None,9,Data Analytics
+B.Tech ECE,Python Development,Web Developer,5,5,None,5,Web Development
+MCA,Machine Learning,QA Engineer,4,5,College project,7,Machine Learning
+B.Sc Computer Science,Machine Learning,ML Engineer,0,0,Freelance,4,Machine Learning
+B.Sc Computer Science,Software Testing,Web Developer,5,3,Internship,3,Web Development
+B.Sc Computer Science,Web Development,Undecided,1,0,None,11,Web Development
+B.Tech IT,Machine Learning,Undecided,0,4,None,12,Machine Learning
+BCA,Software Testing,Web Developer,2,2,Freelance,1,Web Development
+B.Tech AI & DS,Python Development,Data Analyst,2,2,Internship,7,Data Analytics
+B.Tech CSE,Machine Learning,Data Analyst,6,1,College project,6,Data Analytics
+B.Tech ECE,Product Management,QA Engineer,0,2,Internship,3,Software Testing
+B.Sc Computer Science,Cloud Computing,Undecided,6,3,Freelance,7,Python Development
+B.Tech IT,Python Development,ML Engineer,5,5,None,3,Machine Learning
+B.Tech IT,Product Management,Undecided,4,3,Internship,10,Data Analytics
+BCA,Python Development,Undecided,0,3,Freelance,1,Data Analytics
+B.Tech ECE,Cybersecurity,Data Analyst,6,5,College project,11,Data Analytics
+B.Tech ECE,Machine Learning,Cloud Engineer,5,1,Freelance,6,Machine Learning
+B.Tech AI & DS,Cloud Computing,Python Developer,6,4,None,1,Machine Learning
+B.Tech AI & DS,Python Development,Undecided,3,1,None,8,Machine Learning
+B.Tech CSE,Cybersecurity,QA Engineer,4,1,Freelance,7,Software Testing
+BCA,Machine Learning,Undecided,6,4,Freelance,2,Machine Learning
+B.Tech CSE,Product Management,Security Analyst,3,5,None,2,Cybersecurity
+B.Tech AI & DS,Data Analytics,Data Analyst,0,4,Internship,9,Data Analytics
+B.Sc Computer Science,Product Management,Security Analyst,6,0,College project,8,Cybersecurity
+B.Tech ECE,Product Management,Security Analyst,3,0,None,11,Cybersecurity
+B.Tech AI & DS,Cybersecurity,Security Analyst,5,2,Internship,12,Machine Learning
+B.Tech IT,Python Development,Undecided,6,5,Freelance,2,Python Development
+B.Tech AI & DS,Web Development,ML Engineer,3,1,Freelance,4,Machine Learning
+B.Tech CSE,Machine Learning,Cloud Engineer,5,5,None,8,Machine Learning
+B.Tech CSE,Python Development,Undecided,4,5,None,9,Web Development
+B.Tech ECE,Product Management,Python Developer,4,1,College project,2,Python Development
+BCA,Cybersecurity,Cloud Engineer,4,5,College project,5,Cybersecurity
+BCA,Cybersecurity,QA Engineer,6,1,College project,7,Software Testing
+B.Tech ECE,Software Testing,Security Analyst,5,4,College project,4,Cybersecurity
+B.Tech ECE,Software Testing,Security Analyst,1,5,College project,9,Cybersecurity
+B.Tech AI & DS,Cybersecurity,ML Engineer,2,4,Freelance,10,Machine Learning
+B.Tech AI & DS,Cloud Computing,QA Engineer,3,0,None,1,Machine Learning
+B.Tech IT,Data Analytics,Data Analyst,2,1,Internship,11,Data Analytics
+B.Tech IT,Data Analytics,QA Engineer,6,4,None,6,Data Analytics
+B.Tech ECE,Machine Learning,Web Developer,5,4,Freelance,4,Machine Learning
+BCA,Software Testing,Data Analyst,3,3,Internship,9,Cybersecurity
+MCA,Software Testing,Web Developer,6,3,College project,11,Web Development
+B.Tech AI & DS,Cybersecurity,Web Developer,5,1,Internship,8,Machine Learning
+B.Tech IT,Machine Learning,Python Developer,5,4,None,7,Python Development
+B.Tech IT,Software Testing,Python Developer,4,2,None,6,Python Development
+B.Tech IT,Python Development,Data Analyst,2,4,None,11,Data Analytics
+B.Tech AI & DS,Software Testing,Undecided,4,4,Internship,2,Machine Learning
+B.Tech IT,Cybersecurity,Web Developer,4,0,College project,7,Web Development
+B.Sc Computer Science,Cloud Computing,ML Engineer,1,1,Internship,6,Machine Learning
+MCA,Web Development,Undecided,6,5,None,2,Web Development
+B.Tech ECE,Product Management,Web Developer,4,4,College project,1,Web Development
+B.Tech AI & DS,Cybersecurity,Cloud Engineer,0,3,Internship,9,Machine Learning
+MCA,Data Analytics,Security Analyst,6,4,Freelance,8,Cybersecurity
+MCA,Web Development,Security Analyst,0,0,College project,9,Web Development
+B.Tech ECE,Machine Learning,Web Developer,5,1,Freelance,2,Machine Learning
+B.Tech ECE,Cloud Computing,ML Engineer,5,1,None,8,Machine Learning
+B.Tech CSE,Data Analytics,ML Engineer,0,1,Internship,9,Machine Learning
+BCA,Software Testing,Cloud Engineer,3,5,Freelance,7,Software Testing
+MCA,Cloud Computing,ML Engineer,0,5,None,12,Machine Learning
+MCA,Machine Learning,Security Analyst,0,2,Internship,10,Machine Learning
+BCA,Product Management,Cloud Engineer,6,5,None,8,Machine Learning
+B.Tech AI & DS,Python Development,Cloud Engineer,6,4,Internship,11,Machine Learning
+MCA,Cybersecurity,Data Analyst,6,4,College project,2,Software Testing
+B.Sc Computer Science,Cloud Computing,ML Engineer,1,5,Internship,4,Machine Learning
+B.Tech IT,Python Development,Python Developer,1,4,Internship,4,Python Development
+B.Tech ECE,Data Analytics,Undecided,4,0,Internship,11,Data Analytics
+B.Sc Computer Science,Web Development,Undecided,2,1,College project,2,Web Development
+B.Sc Computer Science,Machine Learning,Web Developer,3,3,Internship,10,Machine Learning
+B.Tech AI & DS,Python Development,Security Analyst,2,3,College project,1,Machine Learning
+B.Sc Computer Science,Web Development,Cloud Engineer,6,2,College project,11,Web Development
+BCA,Product Management,Undecided,2,2,Freelance,9,Data Analytics
+B.Tech AI & DS,Machine Learning,QA Engineer,6,1,College project,5,Machine Learning
+B.Tech CSE,Machine Learning,ML Engineer,6,4,None,10,Machine Learning
+MCA,Web Development,Data Analyst,2,4,Freelance,11,Data Analytics
+B.Tech IT,Cybersecurity,Cloud Engineer,6,4,Internship,3,Cybersecurity
+B.Sc Computer Science,Machine Learning,Cloud Engineer,4,0,College project,10,Machine Learning
+B.Tech IT,Python Development,Undecided,1,4,College project,12,Cybersecurity
+B.Tech IT,Cybersecurity,Data Analyst,6,3,College project,2,Data Analytics
+B.Tech ECE,Web Development,Data Analyst,1,4,Internship,7,Data Analytics
+B.Tech CSE,Product Management,Data Analyst,5,2,None,12,Data Analytics
+MCA,Software Testing,QA Engineer,4,4,College project,7,Software Testing
+MCA,Cybersecurity,ML Engineer,2,3,College project,9,Machine Learning
+B.Tech AI & DS,Cybersecurity,Undecided,3,4,None,9,Machine Learning
+B.Tech IT,Product Management,Python Developer,0,4,Internship,4,Python Development
+MCA,Python Development,Security Analyst,5,0,College project,7,Cybersecurity
+B.Tech ECE,Machine Learning,Undecided,3,3,College project,10,Machine Learning
+B.Tech IT,Cloud Computing,Data Analyst,0,1,College project,3,Data Analytics
+B.Tech CSE,Data Analytics,Python Developer,1,2,College project,9,Data Analytics
+B.Tech CSE,Data Analytics,QA Engineer,1,3,Freelance,8,Data Analytics
+B.Tech AI & DS,Cloud Computing,Python Developer,4,1,Internship,3,Machine Learning
+MCA,Cybersecurity,Undecided,4,0,College project,7,Cybersecurity
+B.Tech IT,Machine Learning,Data Analyst,4,4,Freelance,3,Data Analytics
+MCA,Python Development,Undecided,4,0,None,2,Web Development
+MCA,Data Analytics,Cloud Engineer,3,2,None,12,Data Analytics
+B.Tech AI & DS,Web Development,Undecided,6,3,Internship,10,Machine Learning
+B.Tech IT,Machine Learning,Cloud Engineer,2,3,College project,2,Machine Learning
+B.Tech IT,Cloud Computing,QA Engineer,0,5,None,10,Software Testing
+B.Tech ECE,Data Analytics,Cloud Engineer,1,5,Internship,7,Data Analytics
+B.Tech ECE,Python Development,Cloud Engineer,4,2,Internship,9,Web Development
+B.Tech AI & DS,Software Testing,Cloud Engineer,1,3,Freelance,3,Machine Learning
+B.Sc Computer Science,Product Management,QA Engineer,4,2,Freelance,12,Software Testing
+BCA,Machine Learning,Web Developer,6,5,College project,2,Machine Learning
+B.Tech AI & DS,Cloud Computing,Security Analyst,4,4,None,3,Machine Learning
+B.Tech AI & DS,Data Analytics,ML Engineer,1,3,Freelance,2,Machine Learning
+MCA,Cybersecurity,ML Engineer,0,5,Freelance,7,Machine Learning
+B.Tech AI & DS,Software Testing,Data Analyst,6,1,Freelance,8,Cybersecurity
+B.Tech CSE,Software Testing,Web Developer,6,4,College project,10,Web Development
+B.Tech IT,Data Analytics,Security Analyst,5,0,College project,2,Data Analytics
+B.Tech ECE,Cloud Computing,Security Analyst,3,3,College project,9,Cybersecurity
+MCA,Machine Learning,ML Engineer,2,5,Internship,6,Machine Learning
+MCA,Software Testing,Web Developer,1,3,Freelance,10,Machine Learning
+MCA,Cloud Computing,ML Engineer,0,4,Internship,6,Machine Learning
+B.Tech ECE,Software Testing,QA Engineer,3,3,Freelance,4,Software Testing
+MCA,Product Management,Undecided,6,0,Freelance,2,Cybersecurity
+B.Tech AI & DS,Web Development,Web Developer,2,3,Internship,9,Machine Learning
+B.Sc Computer Science,Software Testing,Web Developer,0,3,Internship,2,Web Development
+B.Sc Computer Science,Python Development,Undecided,2,1,Internship,3,Cybersecurity
+B.Tech ECE,Web Development,Undecided,1,1,College project,5,Web Development
+B.Tech AI & DS,Web Development,Web Developer,4,2,College project,2,Machine Learning
+MCA,Machine Learning,Undecided,0,4,None,8,Machine Learning
+MCA,Cybersecurity,Undecided,6,2,Freelance,3,Cybersecurity
+B.Tech IT,Software Testing,Cloud Engineer,6,4,College project,1,Software Testing
+MCA,Cloud Computing,Undecided,0,4,Internship,7,Python Development
+B.Tech CSE,Python Development,Undecided,5,4,Freelance,6,Cybersecurity
+MCA,Web Development,Cloud Engineer,0,2,Internship,10,Web Development
+B.Tech IT,Python Development,QA Engineer,2,3,Internship,6,Software Testing
+BCA,Cloud Computing,Web Developer,5,2,Internship,7,Web Development
+MCA,Python Development,Python Developer,5,1,None,12,Python Development
+B.Tech AI & DS,Web Development,Cloud Engineer,3,1,College project,12,Machine Learning
+BCA,Data Analytics,Python Developer,3,1,Internship,8,Data Analytics
+B.Tech CSE,Data Analytics,Cloud Engineer,5,1,None,4,Data Analytics
+BCA,Product Management,ML Engineer,5,2,Internship,6,Machine Learning
+B.Tech CSE,Software Testing,Security Analyst,3,0,Internship,11,Cybersecurity
+B.Tech AI & DS,Web Development,Python Developer,2,2,Internship,11,Machine Learning
+BCA,Product Management,ML Engineer,4,2,Freelance,11,Machine Learning
+BCA,Python Development,Security Analyst,5,4,Freelance,2,Python Development
+B.Sc Computer Science,Web Development,Security Analyst,5,2,Internship,10,Web Development
+B.Tech AI & DS,Software Testing,Undecided,6,2,Freelance,7,Machine Learning
+B.Tech ECE,Data Analytics,Python Developer,1,5,Internship,12,Data Analytics
+B.Tech IT,Machine Learning,Web Developer,3,0,None,2,Machine Learning
+B.Tech CSE,Product Management,Data Analyst,6,3,None,2,Data Analytics
+B.Tech ECE,Python Development,ML Engineer,3,2,College project,4,Machine Learning
+B.Tech IT,Product Management,Python Developer,4,1,None,1,Python Development
+BCA,Cybersecurity,Undecided,6,4,Internship,9,Cybersecurity
+B.Tech ECE,Python Development,Undecided,5,5,Freelance,9,Cybersecurity
+BCA,Software Testing,Security Analyst,4,1,None,8,Cybersecurity
+B.Tech IT,Cloud Computing,QA Engineer,2,0,None,9,Software Testing
+B.Sc Computer Science,Python Development,Security Analyst,3,4,None,12,Cybersecurity
+B.Tech CSE,Product Management,QA Engineer,6,3,Internship,10,Software Testing
+B.Tech IT,Data Analytics,Security Analyst,3,4,Freelance,7,Data Analytics
+B.Tech IT,Cloud Computing,Cloud Engineer,2,0,Freelance,11,Python Development
+B.Tech ECE,Software Testing,QA Engineer,5,4,Internship,7,Software Testing
+B.Tech IT,Machine Learning,Python Developer,2,0,Freelance,10,Machine Learning
+B.Sc Computer Science,Product Management,Web Developer,0,1,None,9,Data Analytics
+B.Tech IT,Software Testing,QA Engineer,5,3,None,4,Software Testing
+B.Tech IT,Data Analytics,Undecided,2,3,Internship,8,Data Analytics
+B.Sc Computer Science,Product Management,Data Analyst,0,1,None,5,Data Analytics
+B.Tech IT,Machine Learning,Undecided,1,2,Freelance,1,Machine Learning
+B.Tech AI & DS,Web Development,Cloud Engineer,3,1,None,4,Machine Learning
+BCA,Machine Learning,Web Developer,3,5,Internship,6,Machine Learning
+B.Sc Computer Science,Data Analytics,ML Engineer,3,5,Internship,4,Data Analytics
+B.Tech CSE,Data Analytics,Web Developer,1,5,Freelance,6,Python Development
+B.Tech AI & DS,Machine Learning,Cloud Engineer,1,0,None,10,Machine Learning
+B.Sc Computer Science,Product Management,Python Developer,6,0,College project,3,Python Development
+B.Tech CSE,Cybersecurity,Data Analyst,2,5,College project,12,Data Analytics
+BCA,Machine Learning,Python Developer,1,2,Internship,8,Machine Learning
+B.Sc Computer Science,Data Analytics,Cloud Engineer,5,1,Internship,1,Data Analytics
+MCA,Product Management,QA Engineer,5,3,College project,10,Software Testing
+B.Tech ECE,Cybersecurity,Security Analyst,3,2,College project,2,Cybersecurity
+B.Tech AI & DS,Product Management,QA Engineer,2,4,Internship,8,Cybersecurity
+B.Tech CSE,Cloud Computing,Python Developer,4,2,College project,6,Python Development
+MCA,Cloud Computing,Web Developer,5,3,College project,10,Web Development
+B.Tech CSE,Cloud Computing,Security Analyst,0,4,None,1,Cybersecurity
+B.Tech AI & DS,Python Development,Python Developer,0,1,None,8,Machine Learning
+B.Tech ECE,Data Analytics,Cloud Engineer,3,4,Internship,1,Data Analytics
+B.Tech IT,Machine Learning,Data Analyst,5,3,None,8,Data Analytics
+MCA,Data Analytics,Security Analyst,5,3,Internship,12,Software Testing
+B.Tech ECE,Software Testing,Data Analyst,0,2,None,4,Data Analytics
+B.Tech ECE,Machine Learning,ML Engineer,1,4,Freelance,4,Machine Learning
+MCA,Web Development,Python Developer,5,4,Freelance,12,Python Development
+B.Tech ECE,Cybersecurity,Undecided,5,3,None,3,Cybersecurity
+B.Tech ECE,Cloud Computing,Security Analyst,1,4,Freelance,6,Cybersecurity
+BCA,Cybersecurity,Security Analyst,6,5,Freelance,12,Cybersecurity
+BCA,Web Development,Web Developer,6,4,Internship,6,Web Development
+B.Tech CSE,Product Management,Cloud Engineer,5,0,Internship,10,Data Analytics
+B.Sc Computer Science,Software Testing,Data Analyst,1,1,Internship,1,Data Analytics
+B.Tech CSE,Software Testing,Python Developer,0,3,Internship,3,Python Development
+B.Tech IT,Cybersecurity,Web Developer,2,2,None,10,Web Development
+B.Tech ECE,Web Development,ML Engineer,2,3,College project,8,Machine Learning
+B.Tech CSE,Machine Learning,QA Engineer,5,4,Freelance,2,Machine Learning
+B.Tech AI & DS,Cybersecurity,Security Analyst,3,3,None,4,Machine Learning
+B.Tech CSE,Data Analytics,Cloud Engineer,2,4,None,6,Data Analytics
+MCA,Python Development,Security Analyst,5,1,College project,1,Cybersecurity
+B.Tech AI & DS,Cloud Computing,Undecided,4,4,None,4,Machine Learning
+B.Tech IT,Cloud Computing,Python Developer,2,0,Freelance,10,Python Development
+B.Tech CSE,Cloud Computing,QA Engineer,3,4,Freelance,12,Software Testing
+MCA,Python Development,Undecided,1,3,Freelance,11,Software Testing
+B.Tech CSE,Web Development,Web Developer,2,3,Internship,11,Web Development
+B.Tech ECE,Machine Learning,ML Engineer,3,3,Internship,6,Machine Learning
+B.Tech AI & DS,Cybersecurity,Data Analyst,2,1,Internship,10,Data Analytics
+BCA,Product Management,Python Developer,0,1,College project,11,Python Development
+B.Tech ECE,Machine Learning,ML Engineer,0,1,College project,5,Cybersecurity
+BCA,Machine Learning,QA Engineer,3,0,Internship,4,Machine Learning
+MCA,Web Development,Web Developer,4,2,Freelance,10,Web Development
+BCA,Python Development,Data Analyst,4,5,None,5,Data Analytics
+B.Tech AI & DS,Software Testing,Web Developer,5,4,Internship,1,Machine Learning
+BCA,Data Analytics,ML Engineer,5,2,Internship,2,Cybersecurity
+BCA,Cloud Computing,Web Developer,4,5,None,6,Web Development
+B.Tech IT,Machine Learning,Python Developer,4,3,None,1,Machine Learning
+BCA,Software Testing,Security Analyst,3,5,College project,1,Cybersecurity
+B.Tech ECE,Cybersecurity,Security Analyst,2,1,Internship,1,Cybersecurity
+MCA,Cloud Computing,Data Analyst,2,1,College project,6,Data Analytics
+B.Tech ECE,Python Development,ML Engineer,3,4,College project,7,Machine Learning
+B.Sc Computer Science,Python Development,Cloud Engineer,4,2,Freelance,9,Machine Learning
+B.Tech AI & DS,Python Development,Web Developer,1,2,College project,7,Machine Learning
+B.Sc Computer Science,Python Development,Python Developer,0,4,None,3,Python Development
+B.Tech AI & DS,Python Development,Data Analyst,2,3,Freelance,5,Data Analytics
+B.Tech AI & DS,Software Testing,Python Developer,1,0,College project,3,Software Testing
+MCA,Software Testing,Web Developer,1,1,None,6,Web Development
+B.Tech ECE,Python Development,Undecided,5,2,College project,7,Web Development
+B.Tech IT,Python Development,Web Developer,0,3,None,5,Web Development
+B.Tech AI & DS,Web Development,Web Developer,1,0,College project,8,Machine Learning
+B.Tech AI & DS,Product Management,Security Analyst,3,1,Freelance,7,Machine Learning
+BCA,Cloud Computing,Security Analyst,4,5,None,9,Cybersecurity
+B.Tech IT,Product Management,Data Analyst,4,4,Freelance,12,Web Development
+B.Sc Computer Science,Data Analytics,Web Developer,3,3,Internship,5,Data Analytics
+MCA,Cloud Computing,QA Engineer,0,5,College project,8,Software Testing
+B.Tech ECE,Product Management,ML Engineer,4,0,College project,10,Machine Learning
+BCA,Python Development,Cloud Engineer,2,3,None,3,Web Development
+B.Tech CSE,Web Development,Undecided,2,2,College project,12,Web Development
+B.Tech ECE,Machine Learning,ML Engineer,3,5,Internship,2,Machine Learning
+BCA,Cloud Computing,Python Developer,4,3,None,3,Python Development
+B.Tech AI & DS,Python Development,Python Developer,1,1,None,7,Machine Learning
+B.Tech ECE,Product Management,QA Engineer,1,0,College project,4,Python Development
+BCA,Data Analytics,Undecided,6,3,None,10,Data Analytics
+MCA,Web Development,Web Developer,5,3,Freelance,7,Web Development
+MCA,Data Analytics,Web Developer,2,4,College project,1,Data Analytics
+B.Tech CSE,Data Analytics,Security Analyst,1,0,Internship,6,Data Analytics
+BCA,Data Analytics,ML Engineer,1,1,Internship,10,Data Analytics
+B.Tech ECE,Python Development,Undecided,4,2,None,2,Python Development
+B.Tech AI & DS,Cloud Computing,ML Engineer,3,4,None,5,Machine Learning
+B.Sc Computer Science,Machine Learning,QA Engineer,4,3,College project,12,Machine Learning
+MCA,Data Analytics,ML Engineer,5,5,None,8,Data Analytics
+MCA,Software Testing,Cloud Engineer,6,2,Internship,9,Software Testing
+MCA,Cybersecurity,Python Developer,4,3,Freelance,8,Python Development
+B.Tech IT,Web Development,QA Engineer,0,0,None,8,Web Development
+B.Tech AI & DS,Machine Learning,Web Developer,4,3,Freelance,1,Machine Learning
+B.Tech ECE,Web Development,Data Analyst,1,5,Internship,5,Data Analytics
+MCA,Software Testing,QA Engineer,4,2,None,2,Software Testing
+B.Tech ECE,Cybersecurity,Cloud Engineer,4,4,None,3,Cybersecurity
+BCA,Cybersecurity,Undecided,6,0,College project,8,Cybersecurity
+BCA,Product Management,Security Analyst,6,3,None,9,Cybersecurity
+B.Tech IT,Cybersecurity,Data Analyst,4,5,Internship,6,Machine Learning
+B.Sc Computer Science,Software Testing,Data Analyst,3,5,College project,10,Data Analytics
+B.Tech AI & DS,Python Development,ML Engineer,6,2,Internship,12,Web Development
+B.Tech IT,Machine Learning,Undecided,2,3,Internship,4,Machine Learning
+B.Sc Computer Science,Python Development,ML Engineer,6,0,College project,2,Machine Learning
+MCA,Data Analytics,Undecided,1,1,Internship,8,Data Analytics
+B.Tech IT,Software Testing,Security Analyst,6,0,College project,4,Cybersecurity
+B.Tech ECE,Product Management,Cloud Engineer,6,4,None,1,Python Development
+BCA,Machine Learning,Security Analyst,0,0,Internship,1,Machine Learning
+B.Sc Computer Science,Software Testing,Web Developer,1,1,Internship,5,Web Development
+B.Sc Computer Science,Product Management,ML Engineer,1,1,Internship,2,Software Testing
+MCA,Machine Learning,Web Developer,2,4,Internship,5,Machine Learning
+B.Tech IT,Software Testing,Web Developer,0,2,Internship,9,Web Development
+BCA,Python Development,Data Analyst,5,0,None,7,Web Development
+B.Tech ECE,Cloud Computing,Python Developer,4,4,Freelance,10,Python Development
+B.Tech ECE,Cybersecurity,Web Developer,6,5,None,8,Web Development
+B.Tech CSE,Machine Learning,Undecided,3,2,Freelance,8,Machine Learning
+B.Tech AI & DS,Web Development,Python Developer,4,2,Internship,7,Machine Learning
+BCA,Cybersecurity,Security Analyst,3,0,None,8,Cybersecurity
+B.Tech AI & DS,Product Management,Undecided,1,2,Internship,10,Machine Learning
+B.Tech AI & DS,Machine Learning,Cloud Engineer,5,0,Internship,9,Machine Learning
+BCA,Software Testing,Undecided,4,3,College project,10,Software Testing
+BCA,Python Development,Undecided,0,2,College project,12,Software Testing
+MCA,Cloud Computing,Security Analyst,5,1,College project,11,Cybersecurity
+MCA,Product Management,ML Engineer,4,3,Internship,9,Machine Learning
+B.Sc Computer Science,Product Management,Python Developer,3,0,None,11,Python Development
+BCA,Cloud Computing,Security Analyst,5,5,None,2,Cybersecurity
+B.Tech AI & DS,Python Development,Data Analyst,1,5,College project,8,Data Analytics
+B.Tech IT,Cloud Computing,Undecided,1,5,Internship,5,Cybersecurity
+B.Tech ECE,Software Testing,Cloud Engineer,2,0,None,10,Software Testing
+B.Tech AI & DS,Cloud Computing,Python Developer,2,0,Internship,9,Machine Learning
+B.Tech CSE,Data Analytics,Security Analyst,6,2,None,4,Data Analytics
+B.Tech ECE,Cloud Computing,Security Analyst,3,3,Freelance,7,Cybersecurity
+B.Tech IT,Python Development,Undecided,1,4,Freelance,6,Web Development
+B.Tech CSE,Python Development,Python Developer,0,5,None,3,Python Development
+B.Tech IT,Product Management,Cloud Engineer,0,1,Freelance,8,Cybersecurity
+BCA,Cloud Computing,Python Developer,4,3,Freelance,7,Python Development
+MCA,Python Development,Cloud Engineer,0,4,Freelance,12,Machine Learning
+MCA,Software Testing,Cloud Engineer,4,2,None,1,Software Testing
+MCA,Cybersecurity,ML Engineer,3,5,None,3,Machine Learning
+MCA,Software Testing,Undecided,0,4,None,4,Software Testing
+MCA,Machine Learning,QA Engineer,0,2,None,8,Machine Learning
+BCA,Product Management,Security Analyst,2,2,Internship,3,Software Testing
+B.Tech CSE,Software Testing,QA Engineer,5,3,College project,10,Python Development
+BCA,Data Analytics,QA Engineer,0,1,None,5,Data Analytics
+B.Tech AI & DS,Software Testing,QA Engineer,2,0,None,10,Machine Learning
+B.Sc Computer Science,Python Development,Undecided,6,1,Internship,12,Machine Learning
+B.Tech CSE,Data Analytics,Security Analyst,1,4,College project,8,Data Analytics
+B.Tech IT,Cloud Computing,Cloud Engineer,5,3,College project,4,Cybersecurity
+B.Tech ECE,Cybersecurity,Data Analyst,2,0,None,3,Data Analytics
+BCA,Product Management,QA Engineer,5,4,College project,7,Software Testing
+B.Sc Computer Science,Cloud Computing,Undecided,1,4,Freelance,1,Cybersecurity
+B.Tech ECE,Product Management,Cloud Engineer,2,4,None,2,Software Testing
+B.Sc Computer Science,Cloud Computing,QA Engineer,2,2,None,5,Software Testing
+B.Tech AI & DS,Cloud Computing,Undecided,5,5,College project,12,Machine Learning
+B.Tech ECE,Web Development,Security Analyst,5,1,Internship,9,Data Analytics
+BCA,Machine Learning,Data Analyst,0,4,None,11,Data Analytics
+B.Sc Computer Science,Web Development,QA Engineer,1,0,None,10,Web Development
+B.Tech ECE,Web Development,ML Engineer,0,0,College project,7,Machine Learning
+B.Tech ECE,Python Development,ML Engineer,1,2,Internship,8,Machine Learning
+B.Sc Computer Science,Machine Learning,Undecided,6,3,Internship,5,Machine Learning
+B.Tech AI & DS,Machine Learning,QA Engineer,0,3,Freelance,6,Machine Learning
+B.Tech IT,Software Testing,QA Engineer,3,0,Freelance,4,Software Testing
+B.Tech CSE,Python Development,Undecided,1,4,Freelance,4,Software Testing
+B.Tech CSE,Product Management,QA Engineer,0,0,None,10,Software Testing
+BCA,Product Management,Data Analyst,1,5,None,1,Data Analytics
+B.Tech ECE,Software Testing,Python Developer,2,3,None,9,Python Development
+BCA,Product Management,Undecided,3,5,None,9,Cybersecurity
+MCA,Product Management,ML Engineer,4,2,Internship,11,Machine Learning
+B.Sc Computer Science,Data Analytics,ML Engineer,4,2,None,8,Data Analytics
+B.Tech IT,Software Testing,Web Developer,4,0,Freelance,11,Web Development
+B.Tech ECE,Cloud Computing,ML Engineer,5,2,Freelance,2,Machine Learning
+B.Tech IT,Product Management,Web Developer,0,1,None,12,Web Development
+BCA,Web Development,Undecided,0,4,Internship,8,Web Development
+B.Tech CSE,Product Management,Data Analyst,2,0,Internship,12,Data Analytics
+B.Tech ECE,Web Development,Undecided,6,4,College project,12,Web Development
+B.Tech ECE,Machine Learning,Data Analyst,1,3,None,8,Data Analytics
+B.Tech ECE,Data Analytics,Web Developer,5,1,None,3,Data Analytics
+BCA,Software Testing,ML Engineer,4,1,None,2,Machine Learning
+B.Tech AI & DS,Web Development,ML Engineer,1,3,Internship,12,Machine Learning
+B.Tech ECE,Cybersecurity,ML Engineer,4,4,College project,6,Machine Learning
+MCA,Web Development,Data Analyst,1,2,None,2,Data Analytics
+B.Tech ECE,Cloud Computing,Python Developer,2,4,College project,8,Python Development
+B.Tech CSE,Data Analytics,Python Developer,6,5,Freelance,3,Web Development
+B.Tech CSE,Machine Learning,Data Analyst,1,0,Internship,7,Data Analytics
+B.Tech IT,Product Management,Python Developer,1,5,Internship,9,Python Development
+MCA,Web Development,Python Developer,5,0,College project,12,Python Development
+B.Sc Computer Science,Machine Learning,QA Engineer,3,0,College project,4,Machine Learning
+B.Tech AI & DS,Machine Learning,Security Analyst,6,4,College project,8,Machine Learning
+B.Tech CSE,Web Development,QA Engineer,1,0,College project,11,Web Development
+B.Tech IT,Product Management,Undecided,1,5,None,1,Cybersecurity
+B.Sc Computer Science,Web Development,Cloud Engineer,2,4,Freelance,1,Web Development
+B.Tech IT,Data Analytics,Python Developer,6,0,Freelance,9,Data Analytics
+MCA,Web Development,Undecided,4,2,Freelance,4,Web Development
+B.Tech AI & DS,Cybersecurity,Web Developer,0,2,College project,2,Machine Learning
+BCA,Cloud Computing,Web Developer,1,0,Freelance,10,Web Development
+B.Tech IT,Cloud Computing,Python Developer,4,3,College project,7,Python Development
+B.Tech ECE,Product Management,Web Developer,2,2,College project,6,Web Development
+B.Tech IT,Data Analytics,QA Engineer,0,3,Freelance,7,Data Analytics
+B.Sc Computer Science,Cybersecurity,Web Developer,4,1,College project,10,Web Development
+BCA,Web Development,ML Engineer,6,4,Freelance,4,Machine Learning
+B.Tech CSE,Product Management,QA Engineer,5,3,College project,4,Software Testing
+MCA,Web Development,Python Developer,0,3,None,1,Python Development
+MCA,Data Analytics,Cloud Engineer,3,3,None,8,Data Analytics
+B.Tech ECE,Machine Learning,Data Analyst,5,3,College project,3,Data Analytics
+B.Tech CSE,Web Development,ML Engineer,3,5,Internship,3,Machine Learning
+BCA,Data Analytics,Undecided,6,1,Freelance,3,Data Analytics
+B.Tech ECE,Cybersecurity,Undecided,5,0,None,7,Cybersecurity
+B.Sc Computer Science,Cybersecurity,Data Analyst,3,2,College project,11,Data Analytics
+MCA,Cybersecurity,Data Analyst,5,2,None,2,Data Analytics
+B.Sc Computer Science,Product Management,Data Analyst,2,1,None,9,Data Analytics
+B.Sc Computer Science,Web Development,Python Developer,1,4,None,11,Python Development
+B.Sc Computer Science,Web Development,Web Developer,2,2,Freelance,5,Python Development
+BCA,Cybersecurity,Undecided,4,4,None,8,Cybersecurity
+MCA,Software Testing,Undecided,2,5,None,4,Software Testing
+B.Tech CSE,Product Management,ML Engineer,3,1,Internship,2,Machine Learning
+B.Tech ECE,Software Testing,ML Engineer,1,3,College project,4,Machine Learning
+BCA,Data Analytics,QA Engineer,5,4,College project,8,Data Analytics
+B.Sc Computer Science,Product Management,Data Analyst,1,0,None,4,Data Analytics
+MCA,Cybersecurity,Cloud Engineer,2,5,Internship,8,Cybersecurity
+B.Sc Computer Science,Product Management,Undecided,4,1,Internship,3,Python Development
+B.Tech AI & DS,Cybersecurity,QA Engineer,6,0,College project,6,Machine Learning
+B.Tech ECE,Python Development,Python Developer,4,2,College project,3,Python Development
+B.Tech IT,Python Development,Python Developer,0,0,Internship,10,Python Development
+B.Tech IT,Software Testing,Security Analyst,1,4,None,11,Cybersecurity
+B.Sc Computer Science,Cybersecurity,Python Developer,3,4,College project,9,Python Development
+BCA,Data Analytics,Cloud Engineer,6,1,Freelance,6,Data Analytics
+BCA,Cybersecurity,QA Engineer,2,4,College project,10,Software Testing
+B.Tech ECE,Product Management,Security Analyst,0,5,Freelance,1,Cybersecurity
+B.Tech CSE,Machine Learning,QA Engineer,3,4,College project,8,Machine Learning
+MCA,Cybersecurity,Data Analyst,5,1,College project,5,Data Analytics
+B.Tech ECE,Machine Learning,Undecided,5,0,Freelance,4,Machine Learning
+BCA,Data Analytics,Security Analyst,1,5,Freelance,6,Data Analytics
+B.Sc Computer Science,Data Analytics,QA Engineer,2,2,Freelance,9,Data Analytics
+B.Tech AI & DS,Product Management,Cloud Engineer,3,2,College project,12,Machine Learning
+B.Tech IT,Cloud Computing,Cloud Engineer,6,4,None,3,Cybersecurity

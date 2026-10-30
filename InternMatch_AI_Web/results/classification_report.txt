@@ -1,0 +1,12 @@
+                    precision    recall  f1-score   support
+
+     Cybersecurity       0.44      0.80      0.57        25
+    Data Analytics       0.83      0.92      0.88        38
+  Machine Learning       0.89      0.48      0.62        52
+Python Development       0.83      0.90      0.86        21
+  Software Testing       0.73      0.58      0.65        19
+   Web Development       0.74      0.80      0.77        25
+
+          accuracy                           0.72       180
+         macro avg       0.75      0.75      0.73       180
+      weighted avg       0.77      0.72      0.72       180

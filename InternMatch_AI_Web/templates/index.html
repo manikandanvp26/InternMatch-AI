@@ -1,0 +1,343 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>InternMatch AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="app">
+
+  <!-- ============ Sidebar ============ -->
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">🎓</div>
+      <div>
+        <div class="brand-name">Intern<span class="c-coral">Match</span> <span class="c-teal">AI</span></div>
+        <div class="brand-tag">Your Skills · Our AI · Perfect Internship</div>
+      </div>
+    </div>
+
+    <nav class="nav" aria-label="Main">
+      <button class="nav-item" data-nav="profile"><span class="nav-ico">✎</span>Student Profile</button>
+      <button class="nav-item is-active" data-nav="upload"><span class="nav-ico">☁</span>Upload &amp; Predict</button>
+      <button class="nav-item" data-nav="results"><span class="nav-ico">▮</span>Results</button>
+      <button class="nav-item" data-nav="gaps"><span class="nav-ico">⚙</span>Skill Gap Analysis</button>
+      <button class="nav-item" data-nav="listings"><span class="nav-ico">▣</span>Internship Listings</button>
+      <button class="nav-item" data-nav="eval"><span class="nav-ico">📈</span>Model Evaluation</button>
+      <button class="nav-item" data-nav="about"><span class="nav-ico">ⓘ</span>About</button>
+    </nav>
+
+    <div class="sidebar-art">
+      <p class="tagline">Small steps<br>today,<br><span class="c-coral">big career</span><br>tomorrow.</p>
+    </div>
+  </aside>
+
+  <!-- ============ Main ============ -->
+  <main class="main">
+    <header class="topbar">
+      <nav class="top-links" aria-label="Site">
+        <span>Build Your Skills</span><span class="sep"></span>
+        <span class="is-strong">Find Your Path</span><span class="sep"></span>
+        <span>Grow Your Future</span>
+      </nav>
+      <div class="user"><span class="avatar">👤</span><span>Student</span><span class="caret">⌄</span></div>
+    </header>
+
+
+    <!-- ---------- Individual Student Profile ---------- -->
+    <section class="view" data-view="profile" hidden>
+      <div class="page-head">
+        <div><p class="eyebrow">PERSONAL RECOMMENDATIONS</p><h1>Student Profile</h1>
+          <p>Enter one student's details to get a personalised internship prediction.</p></div>
+      </div>
+      <div class="card profile-card">
+        <form id="profileForm">
+          <div class="form-section-title">Basic information</div>
+          <div class="profile-grid">
+            <label>Student name<input name="student_name" required placeholder="e.g. Arun Kumar"></label>
+            <label>Education<select name="education" required>
+              <option value="">Select education</option>
+              <option>B.Tech CSE</option><option>B.Tech IT</option><option>B.Sc Computer Science</option>
+              <option>BCA</option><option>MCA</option><option>B.Tech ECE</option><option>B.Tech AI &amp; DS</option>
+            </select></label>
+            <label>Domain interest<select name="domain_interest" required>
+              <option value="">Select domain</option>
+              <option>Data Analytics</option><option>Machine Learning</option><option>Python Development</option>
+              <option>Web Development</option><option>Software Testing</option><option>Cybersecurity</option>
+              <option>Cloud Computing</option><option>Product Management</option>
+            </select></label>
+            <label>Career goal<select name="career_goal" required>
+              <option value="">Select career goal</option>
+              <option>Data Analyst</option><option>ML Engineer</option><option>Python Developer</option>
+              <option>Web Developer</option><option>QA Engineer</option><option>Security Analyst</option>
+              <option>Cloud Engineer</option><option>Undecided</option>
+            </select></label>
+            <label>Experience level<select name="experience_level" required>
+              <option>None</option><option>College project</option><option>Internship</option><option>Freelance</option>
+            </select></label>
+            <label>Preferred location<select name="preferred_location">
+              <option>Any</option><option>Chennai</option><option>Remote</option><option>Bangalore</option><option>Hybrid</option>
+            </select></label>
+            <label>Projects completed<input name="projects_count" type="number" min="0" max="100" value="0" required></label>
+            <label>Certifications<input name="certifications_count" type="number" min="0" max="100" value="0" required></label>
+            <label>Maximum internship duration<select name="preferred_duration_months">
+              <option value="1">1 month</option><option value="2">2 months</option><option value="3">3 months</option>
+              <option value="4">4 months</option><option value="5">5 months</option><option value="6" selected>6 months</option>
+              <option value="9">9 months</option><option value="12">12 months</option><option value="24">24 months</option>
+            </select></label>
+          </div>
+          <label class="full-label">Technical skills <span class="small">Separate skills with commas</span>
+            <textarea name="skills" rows="3" required placeholder="Python, SQL, Pandas, Machine Learning"></textarea>
+          </label>
+          <button class="btn btn-primary" type="submit" id="profileSubmit">Analyse My Profile →</button>
+        </form>
+      </div>
+      <div id="profileOutput" class="profile-output" hidden></div>
+    </section>
+
+    <!-- ---------- Upload & Predict ---------- -->
+    <section class="view" data-view="upload">
+      <div class="hero">
+        <div class="hero-text">
+          <p class="eyebrow">Welcome to</p>
+          <h1 class="hero-title">Intern<span class="c-coral">Match</span> <span class="c-teal">AI</span></h1>
+          <p class="hero-sub">Upload your student data and let our AI find the best internship opportunities for you!</p>
+          <div class="features">
+            <div class="feature"><span class="f-ico">✦</span><span>AI Powered<br>Recommendations</span></div>
+            <div class="feature"><span class="f-ico">📊</span><span>Skill Gap<br>Analysis</span></div>
+            <div class="feature"><span class="f-ico">▣</span><span>Real Internship<br>Listings</span></div>
+            <div class="feature"><span class="f-ico">⤓</span><span>Download<br>Results</span></div>
+          </div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="blob"></div>
+          <div class="hero-words">Better<br>Skills<br>Bigger<br>Opportunities</div>
+        </div>
+      </div>
+
+      <div class="grid-main">
+        <!-- Upload card -->
+        <article class="card upload-card">
+          <div class="card-head">
+            <div class="head-ico coral">☁</div>
+            <div>
+              <h2>Upload Student Data</h2>
+              <p class="muted">Drag and drop your file or click to browse. Supported formats: CSV, TSV, Excel (.xlsx, .xls), JSON, XML, TXT</p>
+            </div>
+          </div>
+
+          <div class="upload-body">
+            <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Drop a student data file or click to browse">
+              <div class="drop-inner" id="dropInner">
+                <div class="cloud" aria-hidden="true">☁</div>
+                <p class="drop-title">Drag &amp; drop your file here</p>
+                <p class="muted small">or</p>
+                <button type="button" class="btn btn-coral" id="browseBtn">Browse Files</button>
+                <p class="muted tiny">Maximum file size: 150MB (about 200,000 rows)</p>
+              </div>
+              <div class="file-state" id="fileState" hidden>
+                <p class="file-name" id="fileName"></p>
+                <p class="muted small" id="fileStatus"></p>
+                <button type="button" class="link-btn" id="clearBtn">Choose a different file</button>
+              </div>
+              <input type="file" id="fileInput" hidden accept=".csv,.tsv,.txt,.xlsx,.xls,.xlsm,.json,.xml">
+            </div>
+
+            <aside class="side-panel">
+              <a class="btn btn-teal" href="/api/template" download>⤓ Download Sample Template</a>
+              <h3>Required Columns</h3>
+              <ul class="checklist">
+                <li>student_name</li><li>education</li><li>domain_interest</li><li>career_goal</li>
+                <li>projects_count</li><li>certifications_count</li><li>experience_level</li>
+                <li>skills_count</li><li>skills</li><li>preferred_location</li>
+              </ul>
+              <p class="note-small">Column names are matched loosely, so “Full Name” or “Certification Count” also work.</p>
+              <button type="button" class="link-btn" data-nav="about">View full format guide →</button>
+            </aside>
+          </div>
+        </article>
+
+        <!-- How it works -->
+        <article class="card how-card">
+          <h2>How It Works</h2>
+          <ol class="steps">
+            <li><span class="step-num">1</span><div><strong>Upload Student Data</strong><p>Add your student details (CSV, Excel, JSON or XML).</p></div></li>
+            <li><span class="step-num">2</span><div><strong>AI Analysis</strong><p>Our Decision Tree model predicts the best internship category for each student.</p></div></li>
+            <li><span class="step-num coral">3</span><div><strong>View Results</strong><p>Get personalized recommendations, match scores and skill gaps.</p></div></li>
+            <li><span class="step-num teal">4</span><div><strong>Download Report</strong><p>Export all results as a CSV file.</p></div></li>
+          </ol>
+        </article>
+      </div>
+
+      <div class="grid-main">
+        <!-- Sample / live results -->
+        <article class="card">
+          <div class="card-head space">
+            <div class="head-left">
+              <div class="head-ico coral">⚙</div>
+              <div>
+                <h2 id="sampleTitle">Sample Results</h2>
+                <p class="muted" id="sampleSub">Here’s how your student data will be analyzed and the results will look.</p>
+              </div>
+            </div>
+            <button type="button" class="btn btn-outline" data-nav="results">View All Results →</button>
+          </div>
+          <div class="table-wrap">
+            <table class="results-table">
+              <thead><tr>
+                <th>Student Name</th><th>Predicted Category</th><th>Match Score</th><th>Top Skills</th>
+                <th>Missing Skills</th><th>Recommended Internships</th><th>Status</th>
+              </tr></thead>
+              <tbody id="sampleBody"></tbody>
+            </table>
+          </div>
+        </article>
+
+        <div class="stack">
+          <article class="card">
+            <div class="card-head">
+              <div class="head-ico teal">▮</div>
+              <h2>Quick Stats</h2>
+            </div>
+            <div class="quick-stats">
+              <div class="qs"><span class="qs-ico">👥</span><div><p class="muted tiny">Total Students</p><p class="qs-val" id="qsStudents">0</p></div></div>
+              <div class="qs"><span class="qs-ico">🎯</span><div><p class="muted tiny">Predicted Categories</p><p class="qs-val" id="qsCategories">0</p></div></div>
+              <div class="qs"><span class="qs-ico">💼</span><div><p class="muted tiny">Internship Listings</p><p class="qs-val" id="qsListings">0</p></div></div>
+              <div class="qs"><span class="qs-ico">⤓</span><div><p class="muted tiny">Results Ready</p><p class="qs-val" id="qsReady">0</p></div></div>
+            </div>
+          </article>
+
+          <article class="card promo">
+            <div class="promo-text">
+              <p class="promo-title">Your Future<br>is a Match Away</p>
+              <p class="muted small">Let AI connect your skills with the right opportunities.</p>
+              <button type="button" class="btn btn-coral" id="getStarted">Get Started →</button>
+            </div>
+            <div class="promo-art" aria-hidden="true"></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ---------- Results ---------- -->
+    <section class="view" data-view="results" hidden>
+      <div class="page-head">
+        <div>
+          <h1>Results</h1>
+          <p class="muted" id="resultsSub">Upload a file on the Upload &amp; Predict page to see results here.</p>
+        </div>
+        <button type="button" class="btn btn-teal" id="exportBtn" disabled>⤓ Download Results (CSV)</button>
+      </div>
+      <div class="problems" id="problems" hidden></div>
+      <div class="toolbar">
+        <label>Show <select id="statusFilter">
+          <option value="all">All rows</option><option value="ok">Analysed only</option><option value="fix">Needs fix</option>
+        </select></label>
+        <label>Per page <select id="pageSize">
+          <option>25</option><option selected>50</option><option>100</option><option>200</option>
+        </select></label>
+        <div class="pager">
+          <button type="button" class="btn btn-outline" id="prevPage">← Prev</button>
+          <span id="pageInfo" class="muted small"></span>
+          <button type="button" class="btn btn-outline" id="nextPage">Next →</button>
+        </div>
+      </div>
+      <article class="card">
+        <div class="table-wrap">
+          <table class="results-table">
+            <thead><tr>
+              <th>Student Name</th><th>Predicted Category</th><th>Match Score</th><th>Top Skills</th>
+              <th>Missing Skills</th><th>Recommended Internships</th><th>Status</th>
+            </tr></thead>
+            <tbody id="resultsBody"><tr><td colspan="7" class="empty">No results yet.</td></tr></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+
+    <!-- ---------- Skill gaps ---------- -->
+    <section class="view" data-view="gaps" hidden>
+      <div class="page-head"><div><h1>Skill Gap Analysis</h1>
+        <p class="muted">Skills most often missing from each student’s top recommended internships.</p></div></div>
+      <div class="grid-two">
+        <article class="card">
+          <h2>Most common skill gaps</h2>
+          <div id="gapBars" class="bars"><p class="empty">Upload a file to see skill gaps.</p></div>
+        </article>
+        <article class="card">
+          <h2>Students by predicted category</h2>
+          <div id="categoryBars" class="bars"><p class="empty">Upload a file to see categories.</p></div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ---------- Listings ---------- -->
+    <section class="view" data-view="listings" hidden>
+      <div class="page-head">
+        <div><h1>Internship Listings</h1>
+          <p class="muted">Public listings used for matching. Availability is not guaranteed. Check the employer’s page.</p></div>
+        <input type="search" id="listingSearch" class="search" placeholder="Search title, company, skill…">
+      </div>
+      <article class="card">
+        <div class="table-wrap">
+          <table class="results-table">
+            <thead><tr><th>Title</th><th>Company</th><th>Category</th><th>Location</th><th>Mode</th><th>Months</th><th>Required skills</th><th>Listing</th></tr></thead>
+            <tbody id="listingsBody"><tr><td colspan="8" class="empty">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+
+    <!-- ---------- Model evaluation ---------- -->
+    <section class="view" data-view="eval" hidden>
+      <div class="page-head"><div><h1>Model Evaluation</h1>
+        <p class="muted">Measured on a held-out 20% split of synthetic training data, not real student outcomes.</p></div></div>
+      <div class="stat-row" id="evalStats"></div>
+      <article class="card">
+        <h2>Per-category results</h2>
+        <div class="table-wrap">
+          <table class="results-table">
+            <thead><tr><th>Category</th><th>Precision</th><th>Recall</th><th>F1-score</th><th>Support</th></tr></thead>
+            <tbody id="evalBody"><tr><td colspan="5" class="empty">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+
+    <!-- ---------- About ---------- -->
+    <section class="view" data-view="about" hidden>
+      <div class="page-head"><div><h1>About</h1></div></div>
+      <div class="grid-two">
+        <article class="card">
+          <h2>How the model works</h2>
+          <p>A single Decision Tree classifier predicts one internship category from education, domain interest, career goal, project count, certification count, experience level and skill count.</p>
+          <p>Recommendations are ranked separately by required-skill overlap plus a bonus when the listing matches the predicted category. This is not a second ML model.</p>
+          <p class="muted">The training data is synthetic and shows how the pipeline works. It does not prove real-world hiring accuracy. Always verify the employer’s official page.</p>
+        </article>
+        <article class="card">
+          <h2>Format guide</h2>
+          <p>Accepted files: CSV, TSV, TXT (comma, tab or semicolon separated), Excel (.xlsx, .xls), JSON (a list of students, or an object containing one) and XML. Maximum size 150 MB, up to 200,000 rows.</p>
+          <ul class="checklist">
+            <li>education: B.Tech CSE, B.Tech IT, B.Sc Computer Science, BCA, MCA, B.Tech ECE, B.Tech AI &amp; DS</li>
+            <li>domain_interest: Data Analytics, Machine Learning, Python Development, Web Development, Software Testing, Cybersecurity, Cloud Computing, Product Management</li>
+            <li>career_goal: Data Analyst, ML Engineer, Python Developer, Web Developer, QA Engineer, Security Analyst, Cloud Engineer, Undecided</li>
+            <li>experience_level: None, College project, Internship, Freelance</li>
+            <li>skills: comma separated, e.g. “Python, SQL, Pandas”</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <footer class="footer">© 2025 InternMatch AI. All rights reserved.</footer>
+  </main>
+</div>
+
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

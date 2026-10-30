@@ -1,0 +1,60 @@
+{
+  "_about": "Maps values found in uploaded files to the values the model was trained on. Keys are lowercase. These are best-guess matches: edit them to match your own rules. Values not listed here are flagged as 'Needs fix'.",
+  "education": {
+    "b.sc it": "B.Tech IT",
+    "b.sc cs": "B.Sc Computer Science",
+    "b.sc computer science": "B.Sc Computer Science",
+    "b.e. computer science": "B.Tech CSE",
+    "b.e computer science": "B.Tech CSE",
+    "b.tech computer science": "B.Tech CSE",
+    "b.tech data science": "B.Tech AI & DS",
+    "b.tech ai": "B.Tech AI & DS",
+    "b.tech ai & ds": "B.Tech AI & DS",
+    "b.e. electronics": "B.Tech ECE",
+    "b.tech electronics": "B.Tech ECE",
+    "m.tech cse": "MCA",
+    "m.sc data science": "MCA",
+    "m.sc computer science": "MCA",
+    "diploma cse": "BCA"
+  },
+  "domain_interest": {
+    "ai": "Machine Learning",
+    "artificial intelligence": "Machine Learning",
+    "data science": "Data Analytics",
+    "devops": "Cloud Computing",
+    "cloud": "Cloud Computing",
+    "frontend development": "Web Development",
+    "front-end development": "Web Development",
+    "full stack development": "Web Development",
+    "backend development": "Python Development",
+    "back-end development": "Python Development",
+    "mobile development": "Web Development",
+    "mobile app development": "Web Development",
+    "ui/ux design": "Web Development",
+    "security": "Cybersecurity",
+    "testing": "Software Testing",
+    "qa": "Software Testing"
+  },
+  "career_goal": {
+    "software engineer": "Python Developer",
+    "backend developer": "Python Developer",
+    "frontend developer": "Web Developer",
+    "full stack developer": "Web Developer",
+    "full stack": "Web Developer",
+    "mobile app developer": "Web Developer",
+    "data scientist": "ML Engineer",
+    "ai engineer": "ML Engineer",
+    "devops engineer": "Cloud Engineer",
+    "product manager": "Undecided",
+    "security engineer": "Security Analyst",
+    "tester": "QA Engineer"
+  },
+  "experience_level": {
+    "full-time": "Freelance",
+    "part-time": "Internship",
+    "intern": "Internship",
+    "project": "College project",
+    "none": "None",
+    "no experience": "None"
+  }
+}
